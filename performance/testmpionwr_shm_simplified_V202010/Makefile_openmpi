@@ -1,0 +1,37 @@
+#this makefile is for openmpi on HUAWEI arm server
+# not tested yet
+
+MPILIB=-L/home/workspace/openmpi-4.0.1/lib
+MPI_INC=-I/home/workspace/openmpi-4.0.1/include
+MPICC=mpicc
+MPICC2=mpic++
+
+IM=-lm
+LDFLAGS =-pthread  -m64 $(MPILIB)
+INC = $(MPI_INC)
+
+ALL = openmpi_emt
+
+all : $(ALL)
+
+ARM=1
+ifdef ARM
+	arm=-D_ARM
+endif
+
+objects = emt.o MPI_Comm.o IOComm_Proxy.o $(WRAPILIB)
+
+$(ALL): $(objects)
+	$(MPICC2)   -g -o $@ $^ $(WITH_DEBUG)  $(THREAD_SAFE) $(LDFLAGS) $(IM) 
+   
+emt.o: emt.c
+	$(MPICC) -g  -O2 -D_LINUX $(DPDK_FLAG) -std=c99 -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC) -c -D_GNU_SOURCE $(arm) $^
+
+MPI_Comm.o: MPI_Comm.cpp
+	$(MPICC2) -g  -O2 -D_LINUX $(DPDK_FLAG) -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC) -c -D_GNU_SOURCE $^
+
+IOComm_Proxy.o: IOComm_Proxy.cpp
+	$(MPICC2) -g -D_LINUX $(DPDK_FLAG) -O2 -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC) -c $^		
+clean:
+	@rm -f $(ALL)  *.o *.map log 
+

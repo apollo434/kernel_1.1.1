@@ -1,0 +1,32 @@
+source /opt/intel/bin/compilervars.sh intel64
+echo 1024 >/sys/devices/system/node/node0/hugepages/hugepages-2048kB/nr_hugepages
+mount -t hugetlbfs none /mnt/huge/
+
+./eno1_irq.sh
+
+nohz_full=1-23 isolcpus=1-23 rcu_nocbs=1-23 rcu_nocb_poll irqaffinity=0 noirqbalance audit=0 nosoftlockup=1 nmi_watchdog=0 selinux=0 nowatchdog intel_pstate=disable mce=off tsc=reliable intel_idle.max_cstate=0 processor.max_cstate=0
+
+BIOS:
+ACIP enable, Pstate Cstate Disable, VT-D, VT-X disable.
+
+emt.c:
+void cplusplus_rtclock_gettime(double *curr_time)
+{
+        unsigned long long curr;
+#ifdef _windriver
+        rtclock_gettime(&curr);
+        *curr_time = 0.000000001 * curr;
+#else
+//      *curr_time = MPI_Wtime();
+    curr = currentcycles();
+//    *curr_time = 0.000000001*(curr*0.434782);
+    *curr_time = 0.0000000004*curr;
+
+#endif
+}
+
+#ifdef _yuanji
+    yj_performance_start();
+#endif
+
+//只开启，不关闭。。。。 为啥ok呢？？？？

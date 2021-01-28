@@ -1,0 +1,41 @@
+#
+# windriver parallel computing platform.
+#
+ALL = intelmpi_emt
+MPICC=mpiicc 
+LDFLAGS =-pthread -m64  -static_mpi -melf_x86_64 
+THREAD_SAFE=-parallel
+
+
+#refer to the location of lib shield 
+LIB_Shield=-L/root
+ifdef JN_OS 
+	LDFLAGS += $(LIB_Shield) -lshield
+	JN=-D_JN_OS
+endif
+
+
+#IM=-lm
+MC=-mcmodel=large
+#WRAPILIB=-lwrapi
+
+#WINDRIVER=-D_windriver
+
+all : $(ALL)
+
+objects = emt.o MPI_Comm.o IOComm_Proxy.o $(WRAPILIB)
+
+$(ALL): $(objects)
+	$(MPICC)   -g -o $@ $^ $(WITH_DEBUG)  $(THREAD_SAFE) $(LDFLAGS) $(IM) $(INC) 
+   
+emt.o: emt.c
+	$(MPICC) -g  -O2 -D_LINUX $(DPDK_FLAG) -std=c99 -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC)  $(MC) $(JN) -c -D_GNU_SOURCE $^
+
+MPI_Comm.o: MPI_Comm.cpp
+	$(MPICC) -g  -O2 -D_LINUX $(DPDK_FLAG) -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC) -c -D_GNU_SOURCE $^
+
+IOComm_Proxy.o: IOComm_Proxy.cpp
+	$(MPICC) -g -D_LINUX $(DPDK_FLAG) -O2 -fPIC $(WITH_DEBUG) $(WINDRIVER) $(IM) $(INC) -c $^		
+clean:
+	@rm -f $(ALL)  *.o *.map log 
+

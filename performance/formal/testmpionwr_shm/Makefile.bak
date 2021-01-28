@@ -1,0 +1,35 @@
+#
+# windriver parallel computing platform.
+#
+LDFLAGS = -melf_x86_64 -pthread  -m64 \
+                  -static_mpi
+
+ALL = emt1
+
+MPICC = mpiicc
+
+THREAD_SAFE=-parallel
+
+WRAPILIB=-lwrapi
+
+all : $(ALL)
+
+objects = emt.o shmFunc.o MPI_Comm.o IOComm_Proxy.o $(WRAPILIB)
+
+emt1: $(objects)
+	$(MPICC)   -g -o $@ $^ $(WITH_DEBUG) -static_mpi $(THREAD_SAFE) $(LDFLAGS)
+   
+emt.o: emt.c
+	$(MPICC) -g  -O2 -D_LINUX -D_MPISENDRECV $(DPDK_FLAG) -std=c99 -fPIC $(WITH_DEBUG) -c -D_GNU_SOURCE $^
+
+shmFunc.o: shmFunc.c
+	$(MPICC) -D_LINUX -D_MPISENDRECV $(DPDK_FLAG) -O2 -std=c99 -fPIC $(WITH_DEBUG) -c $^	
+
+MPI_Comm.o: MPI_Comm.cpp
+	$(MPICC) -g  -O2 -D_LINUX -D_MPISENDRECV $(DPDK_FLAG) -fPIC $(WITH_DEBUG) -c -D_GNU_SOURCE $^
+
+IOComm_Proxy.o: IOComm_Proxy.cpp
+	$(MPICC) -D_LINUX -D_MPISENDRECV $(DPDK_FLAG) -O2 -fPIC $(WITH_DEBUG) -c$^		
+clean:
+	@rm -f $(ALL)  *.o *.map log 
+

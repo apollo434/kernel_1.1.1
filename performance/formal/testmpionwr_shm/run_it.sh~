@@ -1,0 +1,10 @@
+#!/bin/bash
+
+taskset -c 4-26 mpirun -genv I_MPI_PIN_PROCESSOR_LIST=4-26 -np 23 ./emt1 200000 &
+
+sleep 30
+
+taskset -pc 0-3 `ps -ef | grep mpiexec | awk '/genv/ {print $2}'`
+taskset -pc 0-3 `ps -ef | grep pmi_proxy | awk '/control-port/ {print $2}'`
+killall -USR1 emt1
+

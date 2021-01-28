@@ -1,0 +1,1302 @@
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+count=1000000, warm=200000  NUM_PROC=20  NUM_DIV_PER=5
+test count =1000000 
+g_ParInfo.iKsub = 2 ProcInfo.Id = 1
+g_ParInfo.iKsub = 5 ProcInfo.Id = 4
+g_ParInfo.iKsub = g_ParInfo.iKsub = 8 ProcInfo.Id = 7
+g_ParInfo.iKsub = 12 ProcInfo.Id = 11
+g_ParInfo.iKsub = 13 ProcInfo.Id = 12
+g_ParInfo.iKsub = 14 ProcInfo.Id = 13
+g_ParInfo.iKsub = 15 ProcInfo.Id = 14
+g_ParInfo.iKsub = 16 ProcInfo.Id = 15
+g_ParInfo.iKsub = 19 ProcInfo.Id = 18
+g_ParInfo.iKsub = 1 ProcInfo.Id = 0
+g_ParInfo.iKsub = 3 ProcInfo.Id = 2
+g_ParInfo.iKsub = 7 ProcInfo.Id = 6
+g_ParInfo.iKsub = g_ParInfo.iKsub = 10 ProcInfo.Id = 9
+g_ParInfo.iKsub = 11 ProcInfo.Id = 10
+g_ParInfo.iKsub = 17 ProcInfo.Id = 16
+g_ParInfo.iKsub = 18 ProcInfo.Id = 17
+g_ParInfo.iKsub = 20 ProcInfo.Id = 19
+g_ParInfo.iKsub = 4 ProcInfo.Id = 3
+9 ProcInfo.Id = 8
+6 ProcInfo.Id = 5
+MPIComm_sharedmem has been established.
+socketid is 0, shmcomm size is 20
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+step 3 is starting;
+
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+step 4 is starting;
+
+shared memory address is 7fbb91914000 and the stored membuffptr is 7fbb91914000 in Block 0 in Process 0.
+shared memory address is 7fbb91914000 and the stored membuffptr is 7fbb91927880 in Block 1 in Process 0.
+shared memory address is 7fbb91914000 and the next membuffptr is 7fbb91927880 in Process 0.
+shared memory address is 7fd3de270100 and the stored membuffptr is 7fd3de270100 in Block 0 in Process 1.
+shared memory address is 7fd3de270100 and the stored membuffptr is 7fd3de283980 in Block 1 in Process 1.
+shared memory address is 7fd3de270100 and the next membuffptr is 7fd3de283980 in Process 1.
+shared memory address is 7f99b1e27200 and the stored membuffptr is 7f99b1e27200 in Block 0 in Process 2.
+shared memory address is 7f99b1e27200 and the stored membuffptr is 7f99b1e3aa80 in Block 1 in Process 2.
+shared memory address is 7f99b1e27200 and the next membuffptr is 7f99b1e3aa80 in Process 2.
+shared memory address is 7f99b1dd9000 and the stored membuffptr is 7f99b1dd9000 in ProcId 0 in Process 2.
+shared memory address is 7f99b1dec880 and the stored membuffptr is 7f99b1dd9000 in ProcId 0 in Process 2.
+shared memory address is 7f99b1e00100 and the stored membuffptr is 7f99b1e00100 in ProcId 1 in Process 2.
+shared memory address is 7f99b1e13980 and the stored membuffptr is 7f99b1e00100 in ProcId 1 in Process 2.
+shared memory address is 7f99b1e27200 and the stored membuffptr is 7f99b1e27200 in ProcId 2 in Process 2.
+shared memory address is 7f99b1e3aa80 and the stored membuffptr is 7f99b1e27200 in ProcId 2 in Process 2.
+shared memory address is 7f99b1e4e300 and the stored membuffptr is 7f99b1e4e300 in ProcId 3 in Process 2.
+shared memory address is 7f99b1e61b80 and the stored membuffptr is 7f99b1e4e300 in ProcId 3 in Process 2.
+shared memory address is 7f99b1e75400 and the stored membuffptr is 7f99b1e75400 in ProcId 4 in Process 2.
+shared memory address is 7f99b1e88c80 and the stored membuffptr is 7f99b1e75400 in ProcId 4 in Process 2.
+shared memory address is 7f99b1e9c500 and the stored membuffptr is 7f99b1e9c500 in ProcId 5 in Process 2.
+shared memory address is 7f99b1eafd80 and the stored membuffptr is 7f99b1e9c500 in ProcId 5 in Process 2.
+shared memory address is 7f99b1ec3600 and the stored membuffptr is 7f99b1ec3600 in ProcId 6 in Process 2.
+shared memory address is 7f99b1ed6e80 and the stored membuffptr is 7f99b1ec3600 in ProcId 6 in Process 2.
+shared memory address is 7f99b1eea700 and the stored membuffptr is 7f99b1eea700 in ProcId 7 in Process 2.
+shared memory address is 7f99b1efdf80 and the stored membuffptr is 7f99b1eea700 in ProcId 7 in Process 2.
+shared memory address is 7f99b1f11800 and the stored membuffptr is 7f99b1f11800 in ProcId 8 in Process 2.
+shared memory address is 7f99b1f25080 and the stored membuffptr is 7f99b1f11800 in ProcId 8 in Process 2.
+shared memory address is 7f99b1f38900 and the stored membuffptr is 7f99b1f38900 in ProcId 9 in Process 2.
+shared memory address is 7f99b1f4c180 and the stored membuffptr is 7f99b1f38900 in ProcId 9 in Process 2.
+shared memory address is 7f99b1f5fa00 and the stored membuffptr is 7f99b1f5fa00 in ProcId 10 in Process 2.
+shared memory address is 7f99b1f73280 and the stored membuffptr is 7f99b1f5fa00 in ProcId 10 in Process 2.
+shared memory address is 7f99b1f86b00 and the stored membuffptr is 7f99b1f86b00 in ProcId 11 in Process 2.
+shared memory address is 7f99b1f9a380 and the stored membuffptr is 7f99b1f86b00 in ProcId 11 in Process 2.
+shared memory address is 7f99b1fadc00 and the stored membuffptr is 7f99b1fadc00 in ProcId 12 in Process 2.
+shared memory address is 7f99b1fc1480 and the stored membuffptr is 7f99b1fadc00 in ProcId 12 in Process 2.
+shared memory address is 7f99b1fd4d00 and the stored membuffptr is 7f99b1fd4d00 in ProcId 13 in Process 2.
+shared memory address is 7f99b1fe8580 and the stored membuffptr is 7f99b1fd4d00 in ProcId 13 in Process 2.
+shared memory address is 7f99b1ffbe00 and the stored membuffptr is 7f99b1ffbe00 in ProcId 14 in Process 2.
+shared memory address is 7f99b200f680 and the stored membuffptr is 7f99b1ffbe00 in ProcId 14 in Process 2.
+shared memory address is 7f99b2022f00 and the stored membuffptr is 7f99b2022f00 in ProcId 15 in Process 2.
+shared memory address is 7f99b2036780 and the stored membuffptr is 7f99b2022f00 in ProcId 15 in Process 2.
+shared memory address is 7f99b204a000 and the stored membuffptr is 7f99b204a000 in ProcId 16 in Process 2.
+shared memory address is 7f3b4d1e1300 and the stored membuffptr is 7f3b4d1e1300 in Block 0 in Process 3.
+shared memory address is 7f3b4d1e1300 and the stored membuffptr is 7f3b4d1f4b80 in Block 1 in Process 3.
+shared memory address is 7f3b4d1e1300 and the next membuffptr is 7f3b4d1f4b80 in Process 3.
+shared memory address is 7f89a4866400 and the stored membuffptr is 7f89a4866400 in Block 0 in Process 4.
+shared memory address is 7f89a4866400 and the stored membuffptr is 7f89a4879c80 in Block 1 in Process 4.
+shared memory address is 7f89a4866400 and the next membuffptr is 7f89a4879c80 in Process 4.
+shared memory address is 7f89a47ca000 and the stored membuffptr is 7f89a47ca000 in ProcId 0 in Process 4.
+shared memory address is 7f89a47dd880 and the stored membuffptr is 7f89a47ca000 in ProcId 0 in Process 4.
+shared memory address is 7f89a47f1100 and the stored membuffptr is 7f89a47f1100 in ProcId 1 in Process 4.
+shared memory address is 7f89a4804980 and the stored membuffptr is 7f89a47f1100 in ProcId 1 in Process 4.
+shared memory address is 7f89a4818200 and the stored membuffptr is 7f89a4818200 in ProcId 2 in Process 4.
+shared memory address is 7f89a482ba80 and the stored membuffptr is 7f89a4818200 in ProcId 2 in Process 4.
+shared memory address is 7f89a483f300 and the stored membuffptr is 7f89a483f300 in ProcId 3 in Process 4.
+shared memory address is 7f89a4852b80 and the stored membuffptr is 7f89a483f300 in ProcId 3 in Process 4.
+shared memory address is 7f89a4866400 and the stored membuffptr is 7f89a4866400 in ProcId 4 in Process 4.
+shared memory address is 7f89a4879c80 and the stored membuffptr is 7f89a4866400 in ProcId 4 in Process 4.
+shared memory address is 7f89a488d500 and the stored membuffptr is 7f89a488d500 in ProcId 5 in Process 4.
+shared memory address is 7f89a48a0d80 and the stored membuffptr is 7f89a488d500 in ProcId 5 in Process 4.
+shared memory address is 7f89a48b4600 and the stored membuffptr is 7f89a48b4600 in ProcId 6 in Process 4.
+shared memory address is 7f89a48c7e80 and the stored membuffptr is 7f89a48b4600 in ProcId 6 in Process 4.
+shared memory address is 7f89a48db700 and the stored membuffptr is 7f89a48db700 in ProcId 7 in Process 4.
+shared memory address is 7f89a48eef80 and the stored membuffptr is 7f89a48db700 in ProcId 7 in Process 4.
+shared memory address is 7f89a4902800 and the stored membuffptr is 7f89a4902800 in ProcId 8 in Process 4.
+shared memory address is 7f89a4916080 and the stored membuffptr is 7f89a4902800 in ProcId 8 in Process 4.
+shared memory address is 7f89a4929900 and the stored membuffptr is 7f89a4929900 in ProcId 9 in Process 4.
+shared memory address is 7f89a493d180 and the stored membuffptr is 7f89a4929900 in ProcId 9 in Process 4.
+shared memory address is 7f89a4950a00 and the stored membuffptr is 7f89a4950a00 in ProcId 10 in Process 4.
+shared memory address is 7f89a4964280 and the stored membuffptr is 7f89a4950a00 in ProcId 10 in Process 4.
+shared memory address is 7f89a4977b00 and the stored membuffptr is 7f89a4977b00 in ProcId 11 in Process 4.
+shared memory address is 7f89a498b380 and the stored membuffptr is 7f89a4977b00 in ProcId 11 in Process 4.
+shared memory address is 7f89a499ec00 and the stored membuffptr is 7f89a499ec00 in ProcId 12 in Process 4.
+shared memory address is 7f89a49b2480 and the stored membuffptr is 7f89a499ec00 in ProcId 12 in Process 4.
+shared memory address is 7f89a49c5d00 and the stored membuffptr is 7f89a49c5d00 in ProcId 13 in Process 4.
+shared memory address is 7f89a49d9580 and the stored membuffptr is 7f89a49c5d00 in ProcId 13 in Process 4.
+shared memory address is 7f89a49ece00 and the stored membuffptr is 7f89a49ece00 in ProcId 14 in Process 4.
+shared memory address is 7f89a4a00680 and the stored membuffptr is 7f89a49ece00 in ProcId 14 in Process 4.
+shared memory address is 7f89a4a13f00 and the stored membuffptr is 7f89a4a13f00 in ProcId 15 in Process 4.
+shared memory address is 7f89a4a27780 and the stored membuffptr is 7f89a4a13f00 in ProcId 15 in Process 4.
+shared memory address is 7f89a4a3b000 and the stored membuffptr is 7f89a4a3b000 in ProcId 16 in Process 4.
+shared memory address is 7f98af49c500 and the stored membuffptr is 7f98af49c500 in Block 0 in Process 5.
+shared memory address is 7f98af49c500 and the stored membuffptr is 7f98af4afd80 in Block 1 in Process 5.
+shared memory address is 7f98af49c500 and the next membuffptr is 7f98af4afd80 in Process 5.
+shared memory address is 7fc3361a7600 and the stored membuffptr is 7fc3361a7600 in Block 0 in Process 6.
+shared memory address is 7fc3361a7600 and the stored membuffptr is 7fc3361bae80 in Block 1 in Process 6.
+shared memory address is 7fc3361a7600 and the next membuffptr is 7fc3361bae80 in Process 6.
+shared memory address is 7f4873e58700 and the stored membuffptr is 7f4873e58700 in Block 0 in Process 7.
+shared memory address is 7f4873e58700 and the stored membuffptr is 7f4873e6bf80 in Block 1 in Process 7.
+shared memory address is 7f4873e58700 and the next membuffptr is 7f4873e6bf80 in Process 7.
+shared memory address is 7f0c310b8800 and the stored membuffptr is 7f0c310b8800 in Block 0 in Process 8.
+shared memory address is 7f0c310b8800 and the stored membuffptr is 7f0c310cc080 in Block 1 in Process 8.
+shared memory address is 7f0c310b8800 and the next membuffptr is 7f0c310cc080 in Process 8.
+shared memory address is 7f0c30f80000 and the stored membuffptr is 7f0c30f80000 in ProcId 0 in Process 8.
+shared memory address is 7f0c30f93880 and the stored membuffptr is 7f0c30f80000 in ProcId 0 in Process 8.
+shared memory address is 7f0c30fa7100 and the stored membuffptr is 7f0c30fa7100 in ProcId 1 in Process 8.
+shared memory address is 7f0c30fba980 and the stored membuffptr is 7f0c30fa7100 in ProcId 1 in Process 8.
+shared memory address is 7f0c30fce200 and the stored membuffptr is 7f0c30fce200 in ProcId 2 in Process 8.
+shared memory address is 7f0c30fe1a80 and the stored membuffptr is 7f0c30fce200 in ProcId 2 in Process 8.
+shared memory address is 7f0c30ff5300 and the stored membuffptr is 7f0c30ff5300 in ProcId 3 in Process 8.
+shared memory address is 7f0c31008b80 and the stored membuffptr is 7f0c30ff5300 in ProcId 3 in Process 8.
+shared memory address is 7f0c3101c400 and the stored membuffptr is 7f0c3101c400 in ProcId 4 in Process 8.
+shared memory address is 7f0c3102fc80 and the stored membuffptr is 7f0c3101c400 in ProcId 4 in Process 8.
+shared memory address is 7f0c31043500 and the stored membuffptr is 7f0c31043500 in ProcId 5 in Process 8.
+shared memory address is 7f0c31056d80 and the stored membuffptr is 7f0c31043500 in ProcId 5 in Process 8.
+shared memory address is 7f0c3106a600 and the stored membuffptr is 7f0c3106a600 in ProcId 6 in Process 8.
+shared memory address is 7f0c3107de80 and the stored membuffptr is 7f0c3106a600 in ProcId 6 in Process 8.
+shared memory address is 7f0c31091700 and the stored membuffptr is 7f0c31091700 in ProcId 7 in Process 8.
+shared memory address is 7f0c310a4f80 and the stored membuffptr is 7f0c31091700 in ProcId 7 in Process 8.
+shared memory address is 7f0c310b8800 and the stored membuffptr is 7f0c310b8800 in ProcId 8 in Process 8.
+shared memory address is 7f0c310cc080 and the stored membuffptr is 7f0c310b8800 in ProcId 8 in Process 8.
+shared memory address is 7f0c310df900 and the stored membuffptr is 7f0c310df900 in ProcId 9 in Process 8.
+shared memory address is 7f0c310f3180 and the stored membuffptr is 7f0c310df900 in ProcId 9 in Process 8.
+shared memory address is 7f0c31106a00 and the stored membuffptr is 7f0c31106a00 in ProcId 10 in Process 8.
+shared memory address is 7f0c3111a280 and the stored membuffptr is 7f0c31106a00 in ProcId 10 in Process 8.
+shared memory address is 7f0c3112db00 and the stored membuffptr is 7f0c3112db00 in ProcId 11 in Process 8.
+shared memory address is 7f0c31141380 and the stored membuffptr is 7f0c3112db00 in ProcId 11 in Process 8.
+shared memory address is 7f0c31154c00 and the stored membuffptr is 7f0c31154c00 in ProcId 12 in Process 8.
+shared memory address is 7f0c31168480 and the stored membuffptr is 7f0c31154c00 in ProcId 12 in Process 8.
+shared memory address is 7f0c3117bd00 and the stored membuffptr is 7f0c3117bd00 in ProcId 13 in Process 8.
+shared memory address is 7f0c3118f580 and the stored membuffptr is 7f0c3117bd00 in ProcId 13 in Process 8.
+shared memory address is 7f0c311a2e00 and the stored membuffptr is 7f0c311a2e00 in ProcId 14 in Process 8.
+shared memory address is 7f0c311b6680 and the stored membuffptr is 7f0c311a2e00 in ProcId 14 in Process 8.
+shared memory address is 7f0c311c9f00 and the stored membuffptr is 7f0c311c9f00 in ProcId 15 in Process 8.
+shared memory address is 7f0c311dd780 and the stored membuffptr is 7f0c311c9f00 in ProcId 15 in Process 8.
+shared memory address is 7f0c311f1000 and the stored membuffptr is 7f0c311f1000 in ProcId 16 in Process 8.
+shared memory address is 7f0c31204880 and the stored membuffptr is 7f0c311f1000 in ProcId 16 in Process 8.
+shared memory address is 7f0c31218100 and the stored membuffptr is 7f0c31218100 in ProcId 17 in Process 8.
+shared memory address is 7f0c3122b980 and the stored membuffptr is 7f0c31218100 in ProcId 17 in Process 8.
+shared memory address is 7f0c3123f200 and the stored membuffptr is 7f0c3123f200 in ProcId 18 in Process 8.
+shared memory address is 7f0c31252a80 and the stored membuffptr is 7f0c3123f200 in ProcId 18 in Process 8.
+shared memory address is 7fc51eba5900 and the stored membuffptr is 7fc51eba5900 in Block 0 in Process 9.
+shared memory address is 7fc51eba5900 and the stored membuffptr is 7fc51ebb9180 in Block 1 in Process 9.
+shared memory address is 7fc51eba5900 and the next membuffptr is 7fc51ebb9180 in Process 9.
+shared memory address is 7fc51ea46000 and the stored membuffptr is 7fc51ea46000 in ProcId 0 in Process 9.
+shared memory address is 7fc51ea59880 and the stored membuffptr is 7fc51ea46000 in ProcId 0 in Process 9.
+shared memory address is 7fc51ea6d100 and the stored membuffptr is 7fc51ea6d100 in ProcId 1 in Process 9.
+shared memory address is 7fc51ea80980 and the stored membuffptr is 7fc51ea6d100 in ProcId 1 in Process 9.
+shared memory address is 7fc51ea94200 and the stored membuffptr is 7fc51ea94200 in ProcId 2 in Process 9.
+shared memory address is 7fc51eaa7a80 and the stored membuffptr is 7fc51ea94200 in ProcId 2 in Process 9.
+shared memory address is 7fc51eabb300 and the stored membuffptr is 7fc51eabb300 in ProcId 3 in Process 9.
+shared memory address is 7fc51eaceb80 and the stored membuffptr is 7fc51eabb300 in ProcId 3 in Process 9.
+shared memory address is 7fc51eae2400 and the stored membuffptr is 7fc51eae2400 in ProcId 4 in Process 9.
+shared memory address is 7fc51eaf5c80 and the stored membuffptr is 7fc51eae2400 in ProcId 4 in Process 9.
+shared memory address is 7fc51eb09500 and the stored membuffptr is 7fc51eb09500 in ProcId 5 in Process 9.
+shared memory address is 7fc51eb1cd80 and the stored membuffptr is 7fc51eb09500 in ProcId 5 in Process 9.
+shared memory address is 7fc51eb30600 and the stored membuffptr is 7fc51eb30600 in ProcId 6 in Process 9.
+shared memory address is 7fc51eb43e80 and the stored membuffptr is 7fc51eb30600 in ProcId 6 in Process 9.
+shared memory address is 7fc51eb57700 and the stored membuffptr is 7fc51eb57700 in ProcId 7 in Process 9.
+shared memory address is 7fc51eb6af80 and the stored membuffptr is 7fc51eb57700 in ProcId 7 in Process 9.
+shared memory address is 7fc51eb7e800 and the stored membuffptr is 7fc51eb7e800 in ProcId 8 in Process 9.
+shared memory address is 7fc51eb92080 and the stored membuffptr is 7fc51eb7e800 in ProcId 8 in Process 9.
+shared memory address is 7fc51eba5900 and the stored membuffptr is 7fc51eba5900 in ProcId 9 in Process 9.
+shared memory address is 7fc51ebb9180 and the stored membuffptr is 7fc51eba5900 in ProcId 9 in Process 9.
+shared memory address is 7fc51ebcca00 and the stored membuffptr is 7fc51ebcca00 in ProcId 10 in Process 9.
+shared memory address is 7fc51ebe0280 and the stored membuffptr is 7fc51ebcca00 in ProcId 10 in Process 9.
+shared memory address is 7fc51ebf3b00 and the stored membuffptr is 7fc51ebf3b00 in ProcId 11 in Process 9.
+shared memory address is 7fc51ec07380 and the stored membuffptr is 7fc51ebf3b00 in ProcId 11 in Process 9.
+shared memory address is 7fc51ec1ac00 and the stored membuffptr is 7fc51ec1ac00 in ProcId 12 in Process 9.
+shared memory address is 7fc51ec2e480 and the stored membuffptr is 7fc51ec1ac00 in ProcId 12 in Process 9.
+shared memory address is 7fc51ec41d00 and the stored membuffptr is 7fc51ec41d00 in ProcId 13 in Process 9.
+shared memory address is 7fc51ec55580 and the stored membuffptr is 7fc51ec41d00 in ProcId 13 in Process 9.
+shared memory address is 7fc51ec68e00 and the stored membuffptr is 7fc51ec68e00 in ProcId 14 in Process 9.
+shared memory address is 7fc51ec7c680 and the stored membuffptr is 7fc51ec68e00 in ProcId 14 in Process 9.
+shared memory address is 7fc51ec8ff00 and the stored membuffptr is 7fc51ec8ff00 in ProcId 15 in Process 9.
+shared memory address is 7fc51eca3780 and the stored membuffptr is 7fc51ec8ff00 in ProcId 15 in Process 9.
+shared memory address is 7fc51ecb7000 and the stored membuffptr is 7fc51ecb7000 in ProcId 16 in Process 9.
+shared memory address is 7fc51ecca880 and the stored membuffptr is 7fc51ecb7000 in ProcId 16 in Process 9.
+shared memory address is 7fc51ecde100 and the stored membuffptr is 7fc51ecde100 in ProcId 17 in Process 9.
+shared memory address is 7fc51ecf1980 and the stored membuffptr is 7fc51ecde100 in ProcId 17 in Process 9.
+shared memory address is 7fc51ed05200 and the stored membuffptr is 7fc51ed05200 in ProcId 18 in Process 9.
+shared memory address is 7fc51ed18a80 and the stored membuffptr is 7fc51ed05200 in ProcId 18 in Process 9.
+shared memory address is 7fc51ed2c300 and the stored membuffptr is 7fc51ed2c300 in ProcId 19 in Process 9.
+shared memory address is 7fc51ed3fb80 and the stored membuffptr is 7fc51ed2c300 in ProcId 19 in Process 9.
+shared memory address is 7fb3d0599a00 and the stored membuffptr is 7fb3d0599a00 in Block 0 in Process 10.
+shared memory address is 7fb3d0599a00 and the stored membuffptr is 7fb3d05ad280 in Block 1 in Process 10.
+shared memory address is 7fb3d0599a00 and the next membuffptr is 7fb3d05ad280 in Process 10.
+shared memory address is 7fb3d0413000 and the stored membuffptr is 7fb3d0413000 in ProcId 0 in Process 10.
+shared memory address is 7fb3d0426880 and the stored membuffptr is 7fb3d0413000 in ProcId 0 in Process 10.
+shared memory address is 7fb3d043a100 and the stored membuffptr is 7fb3d043a100 in ProcId 1 in Process 10.
+shared memory address is 7fb3d044d980 and the stored membuffptr is 7fb3d043a100 in ProcId 1 in Process 10.
+shared memory address is 7fb3d0461200 and the stored membuffptr is 7fb3d0461200 in ProcId 2 in Process 10.
+shared memory address is 7fb3d0474a80 and the stored membuffptr is 7fb3d0461200 in ProcId 2 in Process 10.
+shared memory address is 7fb3d0488300 and the stored membuffptr is 7fb3d0488300 in ProcId 3 in Process 10.
+shared memory address is 7fb3d049bb80 and the stored membuffptr is 7fb3d0488300 in ProcId 3 in Process 10.
+shared memory address is 7fb3d04af400 and the stored membuffptr is 7fb3d04af400 in ProcId 4 in Process 10.
+shared memory address is 7fb3d04c2c80 and the stored membuffptr is 7fb3d04af400 in ProcId 4 in Process 10.
+shared memory address is 7fb3d04d6500 and the stored membuffptr is 7fb3d04d6500 in ProcId 5 in Process 10.
+shared memory address is 7fb3d04e9d80 and the stored membuffptr is 7fb3d04d6500 in ProcId 5 in Process 10.
+shared memory address is 7fb3d04fd600 and the stored membuffptr is 7fb3d04fd600 in ProcId 6 in Process 10.
+shared memory address is 7fb3d0510e80 and the stored membuffptr is 7fb3d04fd600 in ProcId 6 in Process 10.
+shared memory address is 7fb3d0524700 and the stored membuffptr is 7fb3d0524700 in ProcId 7 in Process 10.
+shared memory address is 7fb3d0537f80 and the stored membuffptr is 7fb3d0524700 in ProcId 7 in Process 10.
+shared memory address is 7fb3d054b800 and the stored membuffptr is 7fb3d054b800 in ProcId 8 in Process 10.
+shared memory address is 7fb3d055f080 and the stored membuffptr is 7fb3d054b800 in ProcId 8 in Process 10.
+shared memory address is 7fb3d0572900 and the stored membuffptr is 7fb3d0572900 in ProcId 9 in Process 10.
+shared memory address is 7fb3d0586180 and the stored membuffptr is 7fb3d0572900 in ProcId 9 in Process 10.
+shared memory address is 7fb3d0599a00 and the stored membuffptr is 7fb3d0599a00 in ProcId 10 in Process 10.
+shared memory address is 7fb3d05ad280 and the stored membuffptr is 7fb3d0599a00 in ProcId 10 in Process 10.
+shared memory address is 7fb3d05c0b00 and the stored membuffptr is 7fb3d05c0b00 in ProcId 11 in Process 10.
+shared memory address is 7fb3d05d4380 and the stored membuffptr is 7fb3d05c0b00 in ProcId 11 in Process 10.
+shared memory address is 7fb3d05e7c00 and the stored membuffptr is 7fb3d05e7c00 in ProcId 12 in Process 10.
+shared memory address is 7fb3d05fb480 and the stored membuffptr is 7fb3d05e7c00 in ProcId 12 in Process 10.
+shared memory address is 7fb3d060ed00 and the stored membuffptr is 7fb3d060ed00 in ProcId 13 in Process 10.
+shared memory address is 7fb3d0622580 and the stored membuffptr is 7fb3d060ed00 in ProcId 13 in Process 10.
+shared memory address is 7fb3d0635e00 and the stored membuffptr is 7fb3d0635e00 in ProcId 14 in Process 10.
+shared memory address is 7fb3d0649680 and the stored membuffptr is 7fb3d0635e00 in ProcId 14 in Process 10.
+shared memory address is 7fb3d065cf00 and the stored membuffptr is 7fb3d065cf00 in ProcId 15 in Process 10.
+shared memory address is 7fb3d0670780 and the stored membuffptr is 7fb3d065cf00 in ProcId 15 in Process 10.
+shared memory address is 7fb3d0684000 and the stored membuffptr is 7fb3d0684000 in ProcId 16 in Process 10.
+shared memory address is 7fb3d0697880 and the stored membuffptr is 7fb3d0684000 in ProcId 16 in Process 10.
+shared memory address is 7fb3d06ab100 and the stored membuffptr is 7fb3d06ab100 in ProcId 17 in Process 10.
+shared memory address is 7fb3d06be980 and the stored membuffptr is 7fb3d06ab100 in ProcId 17 in Process 10.
+shared memory address is 7fb3d06d2200 and the stored membuffptr is 7fb3d06d2200 in ProcId 18 in Process 10.
+shared memory address is 7fb3d06e5a80 and the stored membuffptr is 7fb3d06d2200 in ProcId 18 in Process 10.
+shared memory address is 7fb3d06f9300 and the stored membuffptr is 7fb3d06f9300 in ProcId 19 in Process 10.
+shared memory address is 7fb3d070cb80 and the stored membuffptr is 7fb3d06f9300 in ProcId 19 in Process 10.
+procInfo.Id=10,  Ntypes=101
+shared memory address is 7fa7a2a4db00 and the stored membuffptr is 7fa7a2a4db00 in Block 0 in Process 11.
+shared memory address is 7fa7a2a4db00 and the stored membuffptr is 7fa7a2a61380 in Block 1 in Process 11.
+shared memory address is 7fa7a2a4db00 and the next membuffptr is 7fa7a2a61380 in Process 11.
+shared memory address is 7fa7a28a0000 and the stored membuffptr is 7fa7a28a0000 in ProcId 0 in Process 11.
+shared memory address is 7fa7a28b3880 and the stored membuffptr is 7fa7a28a0000 in ProcId 0 in Process 11.
+shared memory address is 7fa7a28c7100 and the stored membuffptr is 7fa7a28c7100 in ProcId 1 in Process 11.
+shared memory address is 7fa7a28da980 and the stored membuffptr is 7fa7a28c7100 in ProcId 1 in Process 11.
+shared memory address is 7fa7a28ee200 and the stored membuffptr is 7fa7a28ee200 in ProcId 2 in Process 11.
+shared memory address is 7fa7a2901a80 and the stored membuffptr is 7fa7a28ee200 in ProcId 2 in Process 11.
+shared memory address is 7fa7a2915300 and the stored membuffptr is 7fa7a2915300 in ProcId 3 in Process 11.
+shared memory address is 7fa7a2928b80 and the stored membuffptr is 7fa7a2915300 in ProcId 3 in Process 11.
+shared memory address is 7fa7a293c400 and the stored membuffptr is 7fa7a293c400 in ProcId 4 in Process 11.
+shared memory address is 7fa7a294fc80 and the stored membuffptr is 7fa7a293c400 in ProcId 4 in Process 11.
+shared memory address is 7fa7a2963500 and the stored membuffptr is 7fa7a2963500 in ProcId 5 in Process 11.
+shared memory address is 7fa7a2976d80 and the stored membuffptr is 7fa7a2963500 in ProcId 5 in Process 11.
+shared memory address is 7fa7a298a600 and the stored membuffptr is 7fa7a298a600 in ProcId 6 in Process 11.
+shared memory address is 7fa7a299de80 and the stored membuffptr is 7fa7a298a600 in ProcId 6 in Process 11.
+shared memory address is 7fa7a29b1700 and the stored membuffptr is 7fa7a29b1700 in ProcId 7 in Process 11.
+shared memory address is 7fa7a29c4f80 and the stored membuffptr is 7fa7a29b1700 in ProcId 7 in Process 11.
+shared memory address is 7fa7a29d8800 and the stored membuffptr is 7fa7a29d8800 in ProcId 8 in Process 11.
+shared memory address is 7fa7a29ec080 and the stored membuffptr is 7fa7a29d8800 in ProcId 8 in Process 11.
+shared memory address is 7fa7a29ff900 and the stored membuffptr is 7fa7a29ff900 in ProcId 9 in Process 11.
+shared memory address is 7fa7a2a13180 and the stored membuffptr is 7fa7a29ff900 in ProcId 9 in Process 11.
+shared memory address is 7fa7a2a26a00 and the stored membuffptr is 7fa7a2a26a00 in ProcId 10 in Process 11.
+shared memory address is 7fa7a2a3a280 and the stored membuffptr is 7fa7a2a26a00 in ProcId 10 in Process 11.
+shared memory address is 7fa7a2a4db00 and the stored membuffptr is 7fa7a2a4db00 in ProcId 11 in Process 11.
+shared memory address is 7fa7a2a61380 and the stored membuffptr is 7fa7a2a4db00 in ProcId 11 in Process 11.
+shared memory address is 7fa7a2a74c00 and the stored membuffptr is 7fa7a2a74c00 in ProcId 12 in Process 11.
+shared memory address is 7fa7a2a88480 and the stored membuffptr is 7fa7a2a74c00 in ProcId 12 in Process 11.
+shared memory address is 7fa7a2a9bd00 and the stored membuffptr is 7fa7a2a9bd00 in ProcId 13 in Process 11.
+shared memory address is 7fa7a2aaf580 and the stored membuffptr is 7fa7a2a9bd00 in ProcId 13 in Process 11.
+shared memory address is 7fa7a2ac2e00 and the stored membuffptr is 7fa7a2ac2e00 in ProcId 14 in Process 11.
+shared memory address is 7fa7a2ad6680 and the stored membuffptr is 7fa7a2ac2e00 in ProcId 14 in Process 11.
+shared memory address is 7fa7a2ae9f00 and the stored membuffptr is 7fa7a2ae9f00 in ProcId 15 in Process 11.
+shared memory address is 7fa7a2afd780 and the stored membuffptr is 7fa7a2ae9f00 in ProcId 15 in Process 11.
+shared memory address is 7fa7a2b11000 and the stored membuffptr is 7fa7a2b11000 in ProcId 16 in Process 11.
+shared memory address is 7fa7a2b24880 and the stored membuffptr is 7fa7a2b11000 in ProcId 16 in Process 11.
+shared memory address is 7fa7a2b38100 and the stored membuffptr is 7fa7a2b38100 in ProcId 17 in Process 11.
+shared memory address is 7fa7a2b4b980 and the stored membuffptr is 7fa7a2b38100 in ProcId 17 in Process 11.
+shared memory address is 7fa7a2b5f200 and the stored membuffptr is 7fa7a2b5f200 in ProcId 18 in Process 11.
+shared memory address is 7fa7a2b72a80 and the stored membuffptr is 7fa7a2b5f200 in ProcId 18 in Process 11.
+shared memory address is 7fa7a2b86300 and the stored membuffptr is 7fa7a2b86300 in ProcId 19 in Process 11.
+shared memory address is 7fa7a2b99b80 and the stored membuffptr is 7fa7a2b86300 in ProcId 19 in Process 11.
+procInfo.Id=11,  Ntypes=101
+shared memory address is 7efc46eb2c00 and the stored membuffptr is 7efc46eb2c00 in Block 0 in Process 12.
+shared memory address is 7efc46eb2c00 and the stored membuffptr is 7efc46ec6480 in Block 1 in Process 12.
+shared memory address is 7efc46eb2c00 and the next membuffptr is 7efc46ec6480 in Process 12.
+shared memory address is 7efc46cde000 and the stored membuffptr is 7efc46cde000 in ProcId 0 in Process 12.
+shared memory address is 7efc46cf1880 and the stored membuffptr is 7efc46cde000 in ProcId 0 in Process 12.
+shared memory address is 7efc46d05100 and the stored membuffptr is 7efc46d05100 in ProcId 1 in Process 12.
+shared memory address is 7efc46d18980 and the stored membuffptr is 7efc46d05100 in ProcId 1 in Process 12.
+shared memory address is 7efc46d2c200 and the stored membuffptr is 7efc46d2c200 in ProcId 2 in Process 12.
+shared memory address is 7efc46d3fa80 and the stored membuffptr is 7efc46d2c200 in ProcId 2 in Process 12.
+shared memory address is 7efc46d53300 and the stored membuffptr is 7efc46d53300 in ProcId 3 in Process 12.
+shared memory address is 7efc46d66b80 and the stored membuffptr is 7efc46d53300 in ProcId 3 in Process 12.
+shared memory address is 7efc46d7a400 and the stored membuffptr is 7efc46d7a400 in ProcId 4 in Process 12.
+shared memory address is 7efc46d8dc80 and the stored membuffptr is 7efc46d7a400 in ProcId 4 in Process 12.
+shared memory address is 7efc46da1500 and the stored membuffptr is 7efc46da1500 in ProcId 5 in Process 12.
+shared memory address is 7efc46db4d80 and the stored membuffptr is 7efc46da1500 in ProcId 5 in Process 12.
+shared memory address is 7efc46dc8600 and the stored membuffptr is 7efc46dc8600 in ProcId 6 in Process 12.
+shared memory address is 7efc46ddbe80 and the stored membuffptr is 7efc46dc8600 in ProcId 6 in Process 12.
+shared memory address is 7efc46def700 and the stored membuffptr is 7efc46def700 in ProcId 7 in Process 12.
+shared memory address is 7efc46e02f80 and the stored membuffptr is 7efc46def700 in ProcId 7 in Process 12.
+shared memory address is 7efc46e16800 and the stored membuffptr is 7efc46e16800 in ProcId 8 in Process 12.
+shared memory address is 7efc46e2a080 and the stored membuffptr is 7efc46e16800 in ProcId 8 in Process 12.
+shared memory address is 7efc46e3d900 and the stored membuffptr is 7efc46e3d900 in ProcId 9 in Process 12.
+shared memory address is 7efc46e51180 and the stored membuffptr is 7efc46e3d900 in ProcId 9 in Process 12.
+shared memory address is 7efc46e64a00 and the stored membuffptr is 7efc46e64a00 in ProcId 10 in Process 12.
+shared memory address is 7efc46e78280 and the stored membuffptr is 7efc46e64a00 in ProcId 10 in Process 12.
+shared memory address is 7efc46e8bb00 and the stored membuffptr is 7efc46e8bb00 in ProcId 11 in Process 12.
+shared memory address is 7efc46e9f380 and the stored membuffptr is 7efc46e8bb00 in ProcId 11 in Process 12.
+shared memory address is 7efc46eb2c00 and the stored membuffptr is 7efc46eb2c00 in ProcId 12 in Process 12.
+shared memory address is 7efc46ec6480 and the stored membuffptr is 7efc46eb2c00 in ProcId 12 in Process 12.
+shared memory address is 7efc46ed9d00 and the stored membuffptr is 7efc46ed9d00 in ProcId 13 in Process 12.
+shared memory address is 7efc46eed580 and the stored membuffptr is 7efc46ed9d00 in ProcId 13 in Process 12.
+shared memory address is 7efc46f00e00 and the stored membuffptr is 7efc46f00e00 in ProcId 14 in Process 12.
+shared memory address is 7efc46f14680 and the stored membuffptr is 7efc46f00e00 in ProcId 14 in Process 12.
+shared memory address is 7efc46f27f00 and the stored membuffptr is 7efc46f27f00 in ProcId 15 in Process 12.
+shared memory address is 7efc46f3b780 and the stored membuffptr is 7efc46f27f00 in ProcId 15 in Process 12.
+shared memory address is 7efc46f4f000 and the stored membuffptr is 7efc46f4f000 in ProcId 16 in Process 12.
+shared memory address is 7efc46f62880 and the stored membuffptr is 7efc46f4f000 in ProcId 16 in Process 12.
+shared memory address is 7efc46f76100 and the stored membuffptr is 7efc46f76100 in ProcId 17 in Process 12.
+shared memory address is 7efc46f89980 and the stored membuffptr is 7efc46f76100 in ProcId 17 in Process 12.
+shared memory address is 7efc46f9d200 and the stored membuffptr is 7efc46f9d200 in ProcId 18 in Process 12.
+shared memory address is 7efc46fb0a80 and the stored membuffptr is 7efc46f9d200 in ProcId 18 in Process 12.
+shared memory address is 7efc46fc4300 and the stored membuffptr is 7efc46fc4300 in ProcId 19 in Process 12.
+shared memory address is 7efc46fd7b80 and the stored membuffptr is 7efc46fc4300 in ProcId 19 in Process 12.
+procInfo.Id=12,  Ntypes=101
+shared memory address is 7f9b3b740d00 and the stored membuffptr is 7f9b3b740d00 in Block 0 in Process 13.
+shared memory address is 7f9b3b740d00 and the stored membuffptr is 7f9b3b754580 in Block 1 in Process 13.
+shared memory address is 7f9b3b740d00 and the next membuffptr is 7f9b3b754580 in Process 13.
+shared memory address is 7efd61359e00 and the stored membuffptr is 7efd61359e00 in Block 0 in Process 14.
+shared memory address is 7fe71c763f00 and the stored membuffptr is 7fe71c763f00 in Block 0 in Process 15.
+shared memory address is 7fe71c763f00 and the stored membuffptr is 7fe71c777780 in Block 1 in Process 15.
+shared memory address is 7fe71c763f00 and the next membuffptr is 7fe71c777780 in Process 15.
+shared memory address is 7fe71c51a000 and the stored membuffptr is 7fe71c51a000 in ProcId 0 in Process 15.
+shared memory address is 7fe71c52d880 and the stored membuffptr is 7fe71c51a000 in ProcId 0 in Process 15.
+shared memory address is 7fe71c541100 and the stored membuffptr is 7fe71c541100 in ProcId 1 in Process 15.
+shared memory address is 7fe71c554980 and the stored membuffptr is 7fe71c541100 in ProcId 1 in Process 15.
+shared memory address is 7fe71c568200 and the stored membuffptr is 7fe71c568200 in ProcId 2 in Process 15.
+shared memory address is 7fe71c57ba80 and the stored membuffptr is 7fe71c568200 in ProcId 2 in Process 15.
+shared memory address is 7fe71c58f300 and the stored membuffptr is 7fe71c58f300 in ProcId 3 in Process 15.
+shared memory address is 7fe71c5a2b80 and the stored membuffptr is 7fe71c58f300 in ProcId 3 in Process 15.
+shared memory address is 7fe71c5b6400 and the stored membuffptr is 7fe71c5b6400 in ProcId 4 in Process 15.
+shared memory address is 7fe71c5c9c80 and the stored membuffptr is 7fe71c5b6400 in ProcId 4 in Process 15.
+shared memory address is 7fe71c5dd500 and the stored membuffptr is 7fe71c5dd500 in ProcId 5 in Process 15.
+shared memory address is 7fe71c5f0d80 and the stored membuffptr is 7fe71c5dd500 in ProcId 5 in Process 15.
+shared memory address is 7fe71c604600 and the stored membuffptr is 7fe71c604600 in ProcId 6 in Process 15.
+shared memory address is 7fe71c617e80 and the stored membuffptr is 7fe71c604600 in ProcId 6 in Process 15.
+shared memory address is 7fe71c62b700 and the stored membuffptr is 7fe71c62b700 in ProcId 7 in Process 15.
+shared memory address is 7fe71c63ef80 and the stored membuffptr is 7fe71c62b700 in ProcId 7 in Process 15.
+shared memory address is 7fe71c652800 and the stored membuffptr is 7fe71c652800 in ProcId 8 in Process 15.
+shared memory address is 7fe71c666080 and the stored membuffptr is 7fe71c652800 in ProcId 8 in Process 15.
+shared memory address is 7fe71c679900 and the stored membuffptr is 7fe71c679900 in ProcId 9 in Process 15.
+shared memory address is 7fe71c68d180 and the stored membuffptr is 7fe71c679900 in ProcId 9 in Process 15.
+shared memory address is 7fe71c6a0a00 and the stored membuffptr is 7fe71c6a0a00 in ProcId 10 in Process 15.
+shared memory address is 7fe71c6b4280 and the stored membuffptr is 7fe71c6a0a00 in ProcId 10 in Process 15.
+shared memory address is 7fe71c6c7b00 and the stored membuffptr is 7fe71c6c7b00 in ProcId 11 in Process 15.
+shared memory address is 7fe71c6db380 and the stored membuffptr is 7fe71c6c7b00 in ProcId 11 in Process 15.
+shared memory address is 7fe71c6eec00 and the stored membuffptr is 7fe71c6eec00 in ProcId 12 in Process 15.
+shared memory address is 7fe71c702480 and the stored membuffptr is 7fe71c6eec00 in ProcId 12 in Process 15.
+shared memory address is 7fe71c715d00 and the stored membuffptr is 7fe71c715d00 in ProcId 13 in Process 15.
+shared memory address is 7fe71c729580 and the stored membuffptr is 7fe71c715d00 in ProcId 13 in Process 15.
+shared memory address is 7fe71c73ce00 and the stored membuffptr is 7fe71c73ce00 in ProcId 14 in Process 15.
+shared memory address is 7fe71c750680 and the stored membuffptr is 7fe71c73ce00 in ProcId 14 in Process 15.
+shared memory address is 7fe71c763f00 and the stored membuffptr is 7fe71c763f00 in ProcId 15 in Process 15.
+shared memory address is 7fe71c777780 and the stored membuffptr is 7fe71c763f00 in ProcId 15 in Process 15.
+shared memory address is 7fe71c78b000 and the stored membuffptr is 7fe71c78b000 in ProcId 16 in Process 15.
+shared memory address is 7fe71c79e880 and the stored membuffptr is 7fe71c78b000 in ProcId 16 in Process 15.
+shared memory address is 7fe71c7b2100 and the stored membuffptr is 7fe71c7b2100 in ProcId 17 in Process 15.
+shared memory address is 7fe71c7c5980 and the stored membuffptr is 7fe71c7b2100 in ProcId 17 in Process 15.
+shared memory address is 7fe71c7d9200 and the stored membuffptr is 7fe71c7d9200 in ProcId 18 in Process 15.
+shared memory address is 7fe71c7eca80 and the stored membuffptr is 7fe71c7d9200 in ProcId 18 in Process 15.
+shared memory address is 7fe71c800300 and the stored membuffptr is 7fe71c800300 in ProcId 19 in Process 15.
+shared memory address is 7fe71c813b80 and the stored membuffptr is 7fe71c800300 in ProcId 19 in Process 15.
+procInfo.Id=15,  Ntypes=101
+shared memory address is 7f82dd892000 and the stored membuffptr is 7f82dd892000 in Block 0 in Process 16.
+shared memory address is 7f82dd892000 and the stored membuffptr is 7f82dd8a5880 in Block 1 in Process 16.
+shared memory address is 7f82dd892000 and the next membuffptr is 7f82dd8a5880 in Process 16.
+shared memory address is 7f479a8d9100 and the stored membuffptr is 7f479a8d9100 in Block 0 in Process 17.
+shared memory address is 7f479a8d9100 and the stored membuffptr is 7f479a8ec980 in Block 1 in Process 17.
+shared memory address is 7f479a8d9100 and the next membuffptr is 7f479a8ec980 in Process 17.
+shared memory address is 7f479a641000 and the stored membuffptr is 7f479a641000 in ProcId 0 in Process 17.
+shared memory address is 7f479a654880 and the stored membuffptr is 7f479a641000 in ProcId 0 in Process 17.
+shared memory address is 7f479a668100 and the stored membuffptr is 7f479a668100 in ProcId 1 in Process 17.
+shared memory address is 7f479a67b980 and the stored membuffptr is 7f479a668100 in ProcId 1 in Process 17.
+shared memory address is 7f479a68f200 and the stored membuffptr is 7f479a68f200 in ProcId 2 in Process 17.
+shared memory address is 7f479a6a2a80 and the stored membuffptr is 7f479a68f200 in ProcId 2 in Process 17.
+shared memory address is 7f479a6b6300 and the stored membuffptr is 7f479a6b6300 in ProcId 3 in Process 17.
+shared memory address is 7f479a6c9b80 and the stored membuffptr is 7f479a6b6300 in ProcId 3 in Process 17.
+shared memory address is 7f479a6dd400 and the stored membuffptr is 7f479a6dd400 in ProcId 4 in Process 17.
+shared memory address is 7f479a6f0c80 and the stored membuffptr is 7f479a6dd400 in ProcId 4 in Process 17.
+shared memory address is 7f479a704500 and the stored membuffptr is 7f479a704500 in ProcId 5 in Process 17.
+shared memory address is 7f479a717d80 and the stored membuffptr is 7f479a704500 in ProcId 5 in Process 17.
+shared memory address is 7f479a72b600 and the stored membuffptr is 7f479a72b600 in ProcId 6 in Process 17.
+shared memory address is 7f479a73ee80 and the stored membuffptr is 7f479a72b600 in ProcId 6 in Process 17.
+shared memory address is 7f479a752700 and the stored membuffptr is 7f479a752700 in ProcId 7 in Process 17.
+shared memory address is 7f479a765f80 and the stored membuffptr is 7f479a752700 in ProcId 7 in Process 17.
+shared memory address is 7f479a779800 and the stored membuffptr is 7f479a779800 in ProcId 8 in Process 17.
+shared memory address is 7f479a78d080 and the stored membuffptr is 7f479a779800 in ProcId 8 in Process 17.
+shared memory address is 7f479a7a0900 and the stored membuffptr is 7f479a7a0900 in ProcId 9 in Process 17.
+shared memory address is 7f479a7b4180 and the stored membuffptr is 7f479a7a0900 in ProcId 9 in Process 17.
+shared memory address is 7f479a7c7a00 and the stored membuffptr is 7f479a7c7a00 in ProcId 10 in Process 17.
+shared memory address is 7f479a7db280 and the stored membuffptr is 7f479a7c7a00 in ProcId 10 in Process 17.
+shared memory address is 7f479a7eeb00 and the stored membuffptr is 7f479a7eeb00 in ProcId 11 in Process 17.
+shared memory address is 7f479a802380 and the stored membuffptr is 7f479a7eeb00 in ProcId 11 in Process 17.
+shared memory address is 7f479a815c00 and the stored membuffptr is 7f479a815c00 in ProcId 12 in Process 17.
+shared memory address is 7f479a829480 and the stored membuffptr is 7f479a815c00 in ProcId 12 in Process 17.
+shared memory address is 7f479a83cd00 and the stored membuffptr is 7f479a83cd00 in ProcId 13 in Process 17.
+shared memory address is 7f479a850580 and the stored membuffptr is 7f479a83cd00 in ProcId 13 in Process 17.
+shared memory address is 7f479a863e00 and the stored membuffptr is 7f479a863e00 in ProcId 14 in Process 17.
+shared memory address is 7f479a877680 and the stored membuffptr is 7f479a863e00 in ProcId 14 in Process 17.
+shared memory address is 7f479a88af00 and the stored membuffptr is 7f479a88af00 in ProcId 15 in Process 17.
+shared memory address is 7f479a89e780 and the stored membuffptr is 7f479a88af00 in ProcId 15 in Process 17.
+shared memory address is 7f479a8b2000 and the stored membuffptr is 7f479a8b2000 in ProcId 16 in Process 17.
+shared memory address is 7f479a8c5880 and the stored membuffptr is 7f479a8b2000 in ProcId 16 in Process 17.
+shared memory address is 7f479a8d9100 and the stored membuffptr is 7f479a8d9100 in ProcId 17 in Process 17.
+shared memory address is 7f479a8ec980 and the stored membuffptr is 7f479a8d9100 in ProcId 17 in Process 17.
+shared memory address is 7f479a900200 and the stored membuffptr is 7f479a900200 in ProcId 18 in Process 17.
+shared memory address is 7f479a913a80 and the stored membuffptr is 7f479a900200 in ProcId 18 in Process 17.
+shared memory address is 7f479a927300 and the stored membuffptr is 7f479a927300 in ProcId 19 in Process 17.
+shared memory address is 7f479a93ab80 and the stored membuffptr is 7f479a927300 in ProcId 19 in Process 17.
+procInfo.Id=17,  Ntypes=101
+shared memory address is 7f35632ef200 and the stored membuffptr is 7f35632ef200 in Block 0 in Process 18.
+shared memory address is 7f35632ef200 and the stored membuffptr is 7f3563302a80 in Block 1 in Process 18.
+shared memory address is 7f35632ef200 and the next membuffptr is 7f3563302a80 in Process 18.
+shared memory address is 7f3563030000 and the stored membuffptr is 7f3563030000 in ProcId 0 in Process 18.
+shared memory address is 7f3563043880 and the stored membuffptr is 7f3563030000 in ProcId 0 in Process 18.
+shared memory address is 7f3563057100 and the stored membuffptr is 7f3563057100 in ProcId 1 in Process 18.
+shared memory address is 7f356306a980 and the stored membuffptr is 7f3563057100 in ProcId 1 in Process 18.
+shared memory address is 7f356307e200 and the stored membuffptr is 7f356307e200 in ProcId 2 in Process 18.
+shared memory address is 7f3563091a80 and the stored membuffptr is 7f356307e200 in ProcId 2 in Process 18.
+shared memory address is 7f35630a5300 and the stored membuffptr is 7f35630a5300 in ProcId 3 in Process 18.
+shared memory address is 7f35630b8b80 and the stored membuffptr is 7f35630a5300 in ProcId 3 in Process 18.
+shared memory address is 7f35630cc400 and the stored membuffptr is 7f35630cc400 in ProcId 4 in Process 18.
+shared memory address is 7f35630dfc80 and the stored membuffptr is 7f35630cc400 in ProcId 4 in Process 18.
+shared memory address is 7f35630f3500 and the stored membuffptr is 7f35630f3500 in ProcId 5 in Process 18.
+shared memory address is 7f3563106d80 and the stored membuffptr is 7f35630f3500 in ProcId 5 in Process 18.
+shared memory address is 7f356311a600 and the stored membuffptr is 7f356311a600 in ProcId 6 in Process 18.
+shared memory address is 7f356312de80 and the stored membuffptr is 7f356311a600 in ProcId 6 in Process 18.
+shared memory address is 7f3563141700 and the stored membuffptr is 7f3563141700 in ProcId 7 in Process 18.
+shared memory address is 7f3563154f80 and the stored membuffptr is 7f3563141700 in ProcId 7 in Process 18.
+shared memory address is 7f3563168800 and the stored membuffptr is 7f3563168800 in ProcId 8 in Process 18.
+shared memory address is 7f356317c080 and the stored membuffptr is 7f3563168800 in ProcId 8 in Process 18.
+shared memory address is 7f356318f900 and the stored membuffptr is 7f356318f900 in ProcId 9 in Process 18.
+shared memory address is 7f35631a3180 and the stored membuffptr is 7f356318f900 in ProcId 9 in Process 18.
+shared memory address is 7f35631b6a00 and the stored membuffptr is 7f35631b6a00 in ProcId 10 in Process 18.
+shared memory address is 7f35631ca280 and the stored membuffptr is 7f35631b6a00 in ProcId 10 in Process 18.
+shared memory address is 7f35631ddb00 and the stored membuffptr is 7f35631ddb00 in ProcId 11 in Process 18.
+shared memory address is 7f35631f1380 and the stored membuffptr is 7f35631ddb00 in ProcId 11 in Process 18.
+shared memory address is 7f3563204c00 and the stored membuffptr is 7f3563204c00 in ProcId 12 in Process 18.
+shared memory address is 7f3563218480 and the stored membuffptr is 7f3563204c00 in ProcId 12 in Process 18.
+shared memory address is 7f356322bd00 and the stored membuffptr is 7f356322bd00 in ProcId 13 in Process 18.
+shared memory address is 7f356323f580 and the stored membuffptr is 7f356322bd00 in ProcId 13 in Process 18.
+shared memory address is 7f3563252e00 and the stored membuffptr is 7f3563252e00 in ProcId 14 in Process 18.
+shared memory address is 7f3563266680 and the stored membuffptr is 7f3563252e00 in ProcId 14 in Process 18.
+shared memory address is 7f3563279f00 and the stored membuffptr is 7f3563279f00 in ProcId 15 in Process 18.
+shared memory address is 7f356328d780 and the stored membuffptr is 7f3563279f00 in ProcId 15 in Process 18.
+shared memory address is 7f35632a1000 and the stored membuffptr is 7f35632a1000 in ProcId 16 in Process 18.
+shared memory address is 7f35632b4880 and the stored membuffptr is 7f35632a1000 in ProcId 16 in Process 18.
+shared memory address is 7f35632c8100 and the stored membuffptr is 7f35632c8100 in ProcId 17 in Process 18.
+shared memory address is 7f35632db980 and the stored membuffptr is 7f35632c8100 in ProcId 17 in Process 18.
+shared memory address is 7f35632ef200 and the stored membuffptr is 7f35632ef200 in ProcId 18 in Process 18.
+shared memory address is 7f3563302a80 and the stored membuffptr is 7f35632ef200 in ProcId 18 in Process 18.
+shared memory address is 7f3563316300 and the stored membuffptr is 7f3563316300 in ProcId 19 in Process 18.
+shared memory address is 7f3563329b80 and the stored membuffptr is 7f3563316300 in ProcId 19 in Process 18.
+procInfo.Id=18,  Ntypes=101
+shared memory address is 7f04eafd2300 and the stored membuffptr is 7f04eafd2300 in Block 0 in Process 19.
+shared memory address is 7f04eafd2300 and the stored membuffptr is 7f04eafe5b80 in Block 1 in Process 19.
+shared memory address is 7f04eafd2300 and the next membuffptr is 7f04eafe5b80 in Process 19.
+shared memory address is 7fbb91914000 and the stored membuffptr is 7fbb91914000 in ProcId 0 in Process 0.
+shared memory address is 7fbb91927880 and the stored membuffptr is 7fbb91914000 in ProcId 0 in Process 0.
+shared memory address is 7fbb9193b100 and the stored membuffptr is 7fbb9193b100 in ProcId 1 in Process 0.
+shared memory address is 7fbb9194e980 and the stored membuffptr is 7fbb9193b100 in ProcId 1 in Process 0.
+shared memory address is 7fbb91962200 and the stored membuffptr is 7fbb91962200 in ProcId 2 in Process 0.
+shared memory address is 7fbb91975a80 and the stored membuffptr is 7fbb91962200 in ProcId 2 in Process 0.
+shared memory address is 7fbb91989300 and the stored membuffptr is 7fbb91989300 in ProcId 3 in Process 0.
+shared memory address is 7fbb9199cb80 and the stored membuffptr is 7fbb91989300 in ProcId 3 in Process 0.
+shared memory address is 7fbb919b0400 and the stored membuffptr is 7fbb919b0400 in ProcId 4 in Process 0.
+shared memory address is 7fbb919c3c80 and the stored membuffptr is 7fbb919b0400 in ProcId 4 in Process 0.
+shared memory address is 7fbb919d7500 and the stored membuffptr is 7fbb919d7500 in ProcId 5 in Process 0.
+shared memory address is 7fbb919ead80 and the stored membuffptr is 7fbb919d7500 in ProcId 5 in Process 0.
+shared memory address is 7fbb919fe600 and the stored membuffptr is 7fbb919fe600 in ProcId 6 in Process 0.
+shared memory address is 7fbb91a11e80 and the stored membuffptr is 7fbb919fe600 in ProcId 6 in Process 0.
+shared memory address is 7fbb91a25700 and the stored membuffptr is 7fbb91a25700 in ProcId 7 in Process 0.
+shared memory address is 7fbb91a38f80 and the stored membuffptr is 7fbb91a25700 in ProcId 7 in Process 0.
+shared memory address is 7fbb91a4c800 and the stored membuffptr is 7fbb91a4c800 in ProcId 8 in Process 0.
+shared memory address is 7fbb91a60080 and the stored membuffptr is 7fbb91a4c800 in ProcId 8 in Process 0.
+shared memory address is 7fbb91a73900 and the stored membuffptr is 7fbb91a73900 in ProcId 9 in Process 0.
+shared memory address is 7fbb91a87180 and the stored membuffptr is 7fbb91a73900 in ProcId 9 in Process 0.
+shared memory address is 7fbb91a9aa00 and the stored membuffptr is 7fbb91a9aa00 in ProcId 10 in Process 0.
+shared memory address is 7fbb91aae280 and the stored membuffptr is 7fbb91a9aa00 in ProcId 10 in Process 0.
+shared memory address is 7fbb91ac1b00 and the stored membuffptr is 7fbb91ac1b00 in ProcId 11 in Process 0.
+shared memory address is 7fbb91ad5380 and the stored membuffptr is 7fbb91ac1b00 in ProcId 11 in Process 0.
+shared memory address is 7fbb91ae8c00 and the stored membuffptr is 7fbb91ae8c00 in ProcId 12 in Process 0.
+shared memory address is 7fbb91afc480 and the stored membuffptr is 7fbb91ae8c00 in ProcId 12 in Process 0.
+shared memory address is 7fbb91b0fd00 and the stored membuffptr is 7fbb91b0fd00 in ProcId 13 in Process 0.
+shared memory address is 7fbb91b23580 and the stored membuffptr is 7fbb91b0fd00 in ProcId 13 in Process 0.
+shared memory address is 7fbb91b36e00 and the stored membuffptr is 7fbb91b36e00 in ProcId 14 in Process 0.
+shared memory address is 7fbb91b4a680 and the stored membuffptr is 7fbb91b36e00 in ProcId 14 in Process 0.
+shared memory address is 7fbb91b5df00 and the stored membuffptr is 7fbb91b5df00 in ProcId 15 in Process 0.
+shared memory address is 7fbb91b71780 and the stored membuffptr is 7fbb91b5df00 in ProcId 15 in Process 0.
+shared memory address is 7fbb91b85000 and the stored membuffptr is 7fbb91b85000 in ProcId 16 in Process 0.
+shared memory address is 7fbb91b98880 and the stored membuffptr is 7fbb91b85000 in ProcId 16 in Process 0.
+shared memory address is 7fbb91bac100 and the stored membuffptr is 7fbb91bac100 in ProcId 17 in Process 0.
+shared memory address is 7fbb91bbf980 and the stored membuffptr is 7fbb91bac100 in ProcId 17 in Process 0.
+shared memory address is 7fbb91bd3200 and the stored membuffptr is 7fbb91bd3200 in ProcId 18 in Process 0.
+shared memory address is 7fbb91be6a80 and the stored membuffptr is 7fbb91bd3200 in ProcId 18 in Process 0.
+shared memory address is 7fbb91bfa300 and the stored membuffptr is 7fbb91bfa300 in ProcId 19 in Process 0.
+shared memory address is 7fbb91c0db80 and the stored membuffptr is 7fbb91bfa300 in ProcId 19 in Process 0.
+procInfo.Id=0,  Ntypes=101
+shared memory address is 7f99b205d880 and the stored membuffptr is 7f99b204a000 in ProcId 16 in Process 2.
+shared memory address is 7f99b2071100 and the stored membuffptr is 7f99b2071100 in ProcId 17 in Process 2.
+shared memory address is 7f99b2084980 and the stored membuffptr is 7f99b2071100 in ProcId 17 in Process 2.
+shared memory address is 7f99b2098200 and the stored membuffptr is 7f99b2098200 in ProcId 18 in Process 2.
+shared memory address is 7f99b20aba80 and the stored membuffptr is 7f99b2098200 in ProcId 18 in Process 2.
+shared memory address is 7f99b20bf300 and the stored membuffptr is 7f99b20bf300 in ProcId 19 in Process 2.
+shared memory address is 7f99b20d2b80 and the stored membuffptr is 7f99b20bf300 in ProcId 19 in Process 2.
+procInfo.Id=2,  Ntypes=101
+shared memory address is 7f89a4a4e880 and the stored membuffptr is 7f89a4a3b000 in ProcId 16 in Process 4.
+shared memory address is 7f89a4a62100 and the stored membuffptr is 7f89a4a62100 in ProcId 17 in Process 4.
+shared memory address is 7f89a4a75980 and the stored membuffptr is 7f89a4a62100 in ProcId 17 in Process 4.
+shared memory address is 7f89a4a89200 and the stored membuffptr is 7f89a4a89200 in ProcId 18 in Process 4.
+shared memory address is 7f89a4a9ca80 and the stored membuffptr is 7f89a4a89200 in ProcId 18 in Process 4.
+shared memory address is 7f89a4ab0300 and the stored membuffptr is 7f89a4ab0300 in ProcId 19 in Process 4.
+shared memory address is 7f89a4ac3b80 and the stored membuffptr is 7f89a4ab0300 in ProcId 19 in Process 4.
+procInfo.Id=4,  Ntypes=101
+shared memory address is 7f0c31266300 and the stored membuffptr is 7f0c31266300 in ProcId 19 in Process 8.
+shared memory address is 7f0c31279b80 and the stored membuffptr is 7f0c31266300 in ProcId 19 in Process 8.
+procInfo.Id=8,  Ntypes=101
+procInfo.Id=9,  Ntypes=101
+shared memory address is 7efd61359e00 and the stored membuffptr is 7efd6136d680 in Block 1 in Process 14.
+shared memory address is 7efd61359e00 and the next membuffptr is 7efd6136d680 in Process 14.
+shared memory address is 7f3b4d16c000 and the stored membuffptr is 7f3b4d16c000 in ProcId 0 in Process 3.
+shared memory address is 7f3b4d17f880 and the stored membuffptr is 7f3b4d16c000 in ProcId 0 in Process 3.
+shared memory address is 7f3b4d193100 and the stored membuffptr is 7f3b4d193100 in ProcId 1 in Process 3.
+shared memory address is 7f3b4d1a6980 and the stored membuffptr is 7f3b4d193100 in ProcId 1 in Process 3.
+shared memory address is 7f3b4d1ba200 and the stored membuffptr is 7f3b4d1ba200 in ProcId 2 in Process 3.
+shared memory address is 7f3b4d1cda80 and the stored membuffptr is 7f3b4d1ba200 in ProcId 2 in Process 3.
+shared memory address is 7f3b4d1e1300 and the stored membuffptr is 7f3b4d1e1300 in ProcId 3 in Process 3.
+shared memory address is 7f3b4d1f4b80 and the stored membuffptr is 7f3b4d1e1300 in ProcId 3 in Process 3.
+shared memory address is 7f3b4d208400 and the stored membuffptr is 7f3b4d208400 in ProcId 4 in Process 3.
+shared memory address is 7f3b4d21bc80 and the stored membuffptr is 7f3b4d208400 in ProcId 4 in Process 3.
+shared memory address is 7f3b4d22f500 and the stored membuffptr is 7f3b4d22f500 in ProcId 5 in Process 3.
+shared memory address is 7f3b4d242d80 and the stored membuffptr is 7f3b4d22f500 in ProcId 5 in Process 3.
+shared memory address is 7f3b4d256600 and the stored membuffptr is 7f3b4d256600 in ProcId 6 in Process 3.
+shared memory address is 7f3b4d269e80 and the stored membuffptr is 7f3b4d256600 in ProcId 6 in Process 3.
+shared memory address is 7f3b4d27d700 and the stored membuffptr is 7f3b4d27d700 in ProcId 7 in Process 3.
+shared memory address is 7f3b4d290f80 and the stored membuffptr is 7f3b4d27d700 in ProcId 7 in Process 3.
+shared memory address is 7f3b4d2a4800 and the stored membuffptr is 7f3b4d2a4800 in ProcId 8 in Process 3.
+shared memory address is 7f3b4d2b8080 and the stored membuffptr is 7f3b4d2a4800 in ProcId 8 in Process 3.
+shared memory address is 7f3b4d2cb900 and the stored membuffptr is 7f3b4d2cb900 in ProcId 9 in Process 3.
+shared memory address is 7f3b4d2df180 and the stored membuffptr is 7f3b4d2cb900 in ProcId 9 in Process 3.
+shared memory address is 7f3b4d2f2a00 and the stored membuffptr is 7f3b4d2f2a00 in ProcId 10 in Process 3.
+shared memory address is 7f3b4d306280 and the stored membuffptr is 7f3b4d2f2a00 in ProcId 10 in Process 3.
+shared memory address is 7f3b4d319b00 and the stored membuffptr is 7f3b4d319b00 in ProcId 11 in Process 3.
+shared memory address is 7f3b4d32d380 and the stored membuffptr is 7f3b4d319b00 in ProcId 11 in Process 3.
+shared memory address is 7f3b4d340c00 and the stored membuffptr is 7f3b4d340c00 in ProcId 12 in Process 3.
+shared memory address is 7f3b4d354480 and the stored membuffptr is 7f3b4d340c00 in ProcId 12 in Process 3.
+shared memory address is 7f3b4d367d00 and the stored membuffptr is 7f3b4d367d00 in ProcId 13 in Process 3.
+shared memory address is 7f3b4d37b580 and the stored membuffptr is 7f3b4d367d00 in ProcId 13 in Process 3.
+shared memory address is 7f3b4d38ee00 and the stored membuffptr is 7f3b4d38ee00 in ProcId 14 in Process 3.
+shared memory address is 7f3b4d3a2680 and the stored membuffptr is 7f3b4d38ee00 in ProcId 14 in Process 3.
+shared memory address is 7f3b4d3b5f00 and the stored membuffptr is 7f3b4d3b5f00 in ProcId 15 in Process 3.
+shared memory address is 7f3b4d3c9780 and the stored membuffptr is 7f3b4d3b5f00 in ProcId 15 in Process 3.
+shared memory address is 7f3b4d3dd000 and the stored membuffptr is 7f3b4d3dd000 in ProcId 16 in Process 3.
+shared memory address is 7f3b4d3f0880 and the stored membuffptr is 7f3b4d3dd000 in ProcId 16 in Process 3.
+shared memory address is 7f3b4d404100 and the stored membuffptr is 7f3b4d404100 in ProcId 17 in Process 3.
+shared memory address is 7f3b4d417980 and the stored membuffptr is 7f3b4d404100 in ProcId 17 in Process 3.
+shared memory address is 7f3b4d42b200 and the stored membuffptr is 7f3b4d42b200 in ProcId 18 in Process 3.
+shared memory address is 7f3b4d43ea80 and the stored membuffptr is 7f3b4d42b200 in ProcId 18 in Process 3.
+shared memory address is 7f3b4d452300 and the stored membuffptr is 7f3b4d452300 in ProcId 19 in Process 3.
+shared memory address is 7f3b4d465b80 and the stored membuffptr is 7f3b4d452300 in ProcId 19 in Process 3.
+shared memory address is 7f98af3d9000 and the stored membuffptr is 7f98af3d9000 in ProcId 0 in Process 5.
+shared memory address is 7f98af3ec880 and the stored membuffptr is 7f98af3d9000 in ProcId 0 in Process 5.
+shared memory address is 7f98af400100 and the stored membuffptr is 7f98af400100 in ProcId 1 in Process 5.
+shared memory address is 7f98af413980 and the stored membuffptr is 7f98af400100 in ProcId 1 in Process 5.
+shared memory address is 7f98af427200 and the stored membuffptr is 7f98af427200 in ProcId 2 in Process 5.
+shared memory address is 7f98af43aa80 and the stored membuffptr is 7f98af427200 in ProcId 2 in Process 5.
+shared memory address is 7f98af44e300 and the stored membuffptr is 7f98af44e300 in ProcId 3 in Process 5.
+shared memory address is 7f98af461b80 and the stored membuffptr is 7f98af44e300 in ProcId 3 in Process 5.
+shared memory address is 7f98af475400 and the stored membuffptr is 7f98af475400 in ProcId 4 in Process 5.
+shared memory address is 7f98af488c80 and the stored membuffptr is 7f98af475400 in ProcId 4 in Process 5.
+shared memory address is 7f98af49c500 and the stored membuffptr is 7f98af49c500 in ProcId 5 in Process 5.
+shared memory address is 7f98af4afd80 and the stored membuffptr is 7f98af49c500 in ProcId 5 in Process 5.
+shared memory address is 7f98af4c3600 and the stored membuffptr is 7f98af4c3600 in ProcId 6 in Process 5.
+shared memory address is 7f98af4d6e80 and the stored membuffptr is 7f98af4c3600 in ProcId 6 in Process 5.
+shared memory address is 7f98af4ea700 and the stored membuffptr is 7f98af4ea700 in ProcId 7 in Process 5.
+shared memory address is 7f98af4fdf80 and the stored membuffptr is 7f98af4ea700 in ProcId 7 in Process 5.
+shared memory address is 7f98af511800 and the stored membuffptr is 7f98af511800 in ProcId 8 in Process 5.
+shared memory address is 7f98af525080 and the stored membuffptr is 7f98af511800 in ProcId 8 in Process 5.
+shared memory address is 7f98af538900 and the stored membuffptr is 7f98af538900 in ProcId 9 in Process 5.
+shared memory address is 7f98af54c180 and the stored membuffptr is 7f98af538900 in ProcId 9 in Process 5.
+shared memory address is 7f98af55fa00 and the stored membuffptr is 7f98af55fa00 in ProcId 10 in Process 5.
+shared memory address is 7f98af573280 and the stored membuffptr is 7f98af55fa00 in ProcId 10 in Process 5.
+shared memory address is 7f98af586b00 and the stored membuffptr is 7f98af586b00 in ProcId 11 in Process 5.
+shared memory address is 7f98af59a380 and the stored membuffptr is 7f98af586b00 in ProcId 11 in Process 5.
+shared memory address is 7f98af5adc00 and the stored membuffptr is 7f98af5adc00 in ProcId 12 in Process 5.
+shared memory address is 7f98af5c1480 and the stored membuffptr is 7f98af5adc00 in ProcId 12 in Process 5.
+shared memory address is 7f98af5d4d00 and the stored membuffptr is 7f98af5d4d00 in ProcId 13 in Process 5.
+shared memory address is 7f98af5e8580 and the stored membuffptr is 7f98af5d4d00 in ProcId 13 in Process 5.
+shared memory address is 7f98af5fbe00 and the stored membuffptr is 7f98af5fbe00 in ProcId 14 in Process 5.
+shared memory address is 7f98af60f680 and the stored membuffptr is 7f98af5fbe00 in ProcId 14 in Process 5.
+shared memory address is 7f98af622f00 and the stored membuffptr is 7f98af622f00 in ProcId 15 in Process 5.
+shared memory address is 7f98af636780 and the stored membuffptr is 7f98af622f00 in ProcId 15 in Process 5.
+shared memory address is 7f98af64a000 and the stored membuffptr is 7f98af64a000 in ProcId 16 in Process 5.
+shared memory address is 7f98af65d880 and the stored membuffptr is 7f98af64a000 in ProcId 16 in Process 5.
+shared memory address is 7f98af671100 and the stored membuffptr is 7f98af671100 in ProcId 17 in Process 5.
+shared memory address is 7f98af684980 and the stored membuffptr is 7f98af671100 in ProcId 17 in Process 5.
+shared memory address is 7f98af698200 and the stored membuffptr is 7f98af698200 in ProcId 18 in Process 5.
+shared memory address is 7f98af6aba80 and the stored membuffptr is 7f98af698200 in ProcId 18 in Process 5.
+shared memory address is 7f98af6bf300 and the stored membuffptr is 7f98af6bf300 in ProcId 19 in Process 5.
+shared memory address is 7f98af6d2b80 and the stored membuffptr is 7f98af6bf300 in ProcId 19 in Process 5.
+procInfo.Id=5,  Ntypes=101
+procInfo.Id=3,  Ntypes=101
+shared memory address is 7f82dd621000 and the stored membuffptr is 7f82dd621000 in ProcId 0 in Process 16.
+shared memory address is 7f82dd634880 and the stored membuffptr is 7f82dd621000 in ProcId 0 in Process 16.
+shared memory address is 7f82dd648100 and the stored membuffptr is 7f82dd648100 in ProcId 1 in Process 16.
+shared memory address is 7f82dd65b980 and the stored membuffptr is 7f82dd648100 in ProcId 1 in Process 16.
+shared memory address is 7f82dd66f200 and the stored membuffptr is 7f82dd66f200 in ProcId 2 in Process 16.
+shared memory address is 7f82dd682a80 and the stored membuffptr is 7f82dd66f200 in ProcId 2 in Process 16.
+shared memory address is 7f82dd696300 and the stored membuffptr is 7f82dd696300 in ProcId 3 in Process 16.
+shared memory address is 7f82dd6a9b80 and the stored membuffptr is 7f82dd696300 in ProcId 3 in Process 16.
+shared memory address is 7f82dd6bd400 and the stored membuffptr is 7f82dd6bd400 in ProcId 4 in Process 16.
+shared memory address is 7f82dd6d0c80 and the stored membuffptr is 7f82dd6bd400 in ProcId 4 in Process 16.
+shared memory address is 7f82dd6e4500 and the stored membuffptr is 7f82dd6e4500 in ProcId 5 in Process 16.
+shared memory address is 7f82dd6f7d80 and the stored membuffptr is 7f82dd6e4500 in ProcId 5 in Process 16.
+shared memory address is 7f82dd70b600 and the stored membuffptr is 7f82dd70b600 in ProcId 6 in Process 16.
+shared memory address is 7f82dd71ee80 and the stored membuffptr is 7f82dd70b600 in ProcId 6 in Process 16.
+shared memory address is 7f82dd732700 and the stored membuffptr is 7f82dd732700 in ProcId 7 in Process 16.
+shared memory address is 7f82dd745f80 and the stored membuffptr is 7f82dd732700 in ProcId 7 in Process 16.
+shared memory address is 7f82dd759800 and the stored membuffptr is 7f82dd759800 in ProcId 8 in Process 16.
+shared memory address is 7f82dd76d080 and the stored membuffptr is 7f82dd759800 in ProcId 8 in Process 16.
+shared memory address is 7f82dd780900 and the stored membuffptr is 7f82dd780900 in ProcId 9 in Process 16.
+shared memory address is 7f82dd794180 and the stored membuffptr is 7f82dd780900 in ProcId 9 in Process 16.
+shared memory address is 7f82dd7a7a00 and the stored membuffptr is 7f82dd7a7a00 in ProcId 10 in Process 16.
+shared memory address is 7f82dd7bb280 and the stored membuffptr is 7f82dd7a7a00 in ProcId 10 in Process 16.
+shared memory address is 7fd3de249000 and the stored membuffptr is 7fd3de249000 in ProcId 0 in Process 1.
+shared memory address is 7fd3de25c880 and the stored membuffptr is 7fd3de249000 in ProcId 0 in Process 1.
+shared memory address is 7fd3de270100 and the stored membuffptr is 7fd3de270100 in ProcId 1 in Process 1.
+shared memory address is 7fd3de283980 and the stored membuffptr is 7fd3de270100 in ProcId 1 in Process 1.
+shared memory address is 7fd3de297200 and the stored membuffptr is 7fd3de297200 in ProcId 2 in Process 1.
+shared memory address is 7fd3de2aaa80 and the stored membuffptr is 7fd3de297200 in ProcId 2 in Process 1.
+shared memory address is 7fd3de2be300 and the stored membuffptr is 7fd3de2be300 in ProcId 3 in Process 1.
+shared memory address is 7fd3de2d1b80 and the stored membuffptr is 7fd3de2be300 in ProcId 3 in Process 1.
+shared memory address is 7fd3de2e5400 and the stored membuffptr is 7fd3de2e5400 in ProcId 4 in Process 1.
+shared memory address is 7fd3de2f8c80 and the stored membuffptr is 7fd3de2e5400 in ProcId 4 in Process 1.
+shared memory address is 7fd3de30c500 and the stored membuffptr is 7fd3de30c500 in ProcId 5 in Process 1.
+shared memory address is 7fc3360bd000 and the stored membuffptr is 7fc3360bd000 in ProcId 0 in Process 6.
+shared memory address is 7fc3360d0880 and the stored membuffptr is 7fc3360bd000 in ProcId 0 in Process 6.
+shared memory address is 7fc3360e4100 and the stored membuffptr is 7fc3360e4100 in ProcId 1 in Process 6.
+shared memory address is 7fc3360f7980 and the stored membuffptr is 7fc3360e4100 in ProcId 1 in Process 6.
+shared memory address is 7fc33610b200 and the stored membuffptr is 7fc33610b200 in ProcId 2 in Process 6.
+shared memory address is 7fc33611ea80 and the stored membuffptr is 7fc33610b200 in ProcId 2 in Process 6.
+shared memory address is 7fc336132300 and the stored membuffptr is 7fc336132300 in ProcId 3 in Process 6.
+shared memory address is 7fc336145b80 and the stored membuffptr is 7fc336132300 in ProcId 3 in Process 6.
+shared memory address is 7fc336159400 and the stored membuffptr is 7fc336159400 in ProcId 4 in Process 6.
+shared memory address is 7fc33616cc80 and the stored membuffptr is 7fc336159400 in ProcId 4 in Process 6.
+shared memory address is 7fc336180500 and the stored membuffptr is 7fc336180500 in ProcId 5 in Process 6.
+shared memory address is 7fc336193d80 and the stored membuffptr is 7fc336180500 in ProcId 5 in Process 6.
+shared memory address is 7fc3361a7600 and the stored membuffptr is 7fc3361a7600 in ProcId 6 in Process 6.
+shared memory address is 7fc3361bae80 and the stored membuffptr is 7fc3361a7600 in ProcId 6 in Process 6.
+shared memory address is 7fc3361ce700 and the stored membuffptr is 7fc3361ce700 in ProcId 7 in Process 6.
+shared memory address is 7fc3361e1f80 and the stored membuffptr is 7fc3361ce700 in ProcId 7 in Process 6.
+shared memory address is 7fc3361f5800 and the stored membuffptr is 7fc3361f5800 in ProcId 8 in Process 6.
+shared memory address is 7fc336209080 and the stored membuffptr is 7fc3361f5800 in ProcId 8 in Process 6.
+shared memory address is 7fc33621c900 and the stored membuffptr is 7fc33621c900 in ProcId 9 in Process 6.
+shared memory address is 7fc336230180 and the stored membuffptr is 7fc33621c900 in ProcId 9 in Process 6.
+shared memory address is 7fc336243a00 and the stored membuffptr is 7fc336243a00 in ProcId 10 in Process 6.
+shared memory address is 7fc336257280 and the stored membuffptr is 7fc336243a00 in ProcId 10 in Process 6.
+shared memory address is 7fc33626ab00 and the stored membuffptr is 7fc33626ab00 in ProcId 11 in Process 6.
+shared memory address is 7fc33627e380 and the stored membuffptr is 7fc33626ab00 in ProcId 11 in Process 6.
+shared memory address is 7fc336291c00 and the stored membuffptr is 7fc336291c00 in ProcId 12 in Process 6.
+shared memory address is 7fc3362a5480 and the stored membuffptr is 7fc336291c00 in ProcId 12 in Process 6.
+shared memory address is 7fc3362b8d00 and the stored membuffptr is 7fc3362b8d00 in ProcId 13 in Process 6.
+shared memory address is 7fc3362cc580 and the stored membuffptr is 7fc3362b8d00 in ProcId 13 in Process 6.
+shared memory address is 7fc3362dfe00 and the stored membuffptr is 7fc3362dfe00 in ProcId 14 in Process 6.
+shared memory address is 7fc3362f3680 and the stored membuffptr is 7fc3362dfe00 in ProcId 14 in Process 6.
+shared memory address is 7f4873d47000 and the stored membuffptr is 7f4873d47000 in ProcId 0 in Process 7.
+shared memory address is 7f4873d5a880 and the stored membuffptr is 7f4873d47000 in ProcId 0 in Process 7.
+shared memory address is 7f4873d6e100 and the stored membuffptr is 7f4873d6e100 in ProcId 1 in Process 7.
+shared memory address is 7f4873d81980 and the stored membuffptr is 7f4873d6e100 in ProcId 1 in Process 7.
+shared memory address is 7f4873d95200 and the stored membuffptr is 7f4873d95200 in ProcId 2 in Process 7.
+shared memory address is 7f4873da8a80 and the stored membuffptr is 7f4873d95200 in ProcId 2 in Process 7.
+shared memory address is 7f4873dbc300 and the stored membuffptr is 7f4873dbc300 in ProcId 3 in Process 7.
+shared memory address is 7f4873dcfb80 and the stored membuffptr is 7f4873dbc300 in ProcId 3 in Process 7.
+shared memory address is 7f4873de3400 and the stored membuffptr is 7f4873de3400 in ProcId 4 in Process 7.
+shared memory address is 7f4873df6c80 and the stored membuffptr is 7f4873de3400 in ProcId 4 in Process 7.
+shared memory address is 7f4873e0a500 and the stored membuffptr is 7f4873e0a500 in ProcId 5 in Process 7.
+shared memory address is 7f4873e1dd80 and the stored membuffptr is 7f4873e0a500 in ProcId 5 in Process 7.
+shared memory address is 7f4873e31600 and the stored membuffptr is 7f4873e31600 in ProcId 6 in Process 7.
+shared memory address is 7f4873e44e80 and the stored membuffptr is 7f4873e31600 in ProcId 6 in Process 7.
+shared memory address is 7f4873e58700 and the stored membuffptr is 7f4873e58700 in ProcId 7 in Process 7.
+shared memory address is 7f4873e6bf80 and the stored membuffptr is 7f4873e58700 in ProcId 7 in Process 7.
+shared memory address is 7f4873e7f800 and the stored membuffptr is 7f4873e7f800 in ProcId 8 in Process 7.
+shared memory address is 7f4873e93080 and the stored membuffptr is 7f4873e7f800 in ProcId 8 in Process 7.
+shared memory address is 7f4873ea6900 and the stored membuffptr is 7f4873ea6900 in ProcId 9 in Process 7.
+shared memory address is 7f4873eba180 and the stored membuffptr is 7f4873ea6900 in ProcId 9 in Process 7.
+shared memory address is 7f4873ecda00 and the stored membuffptr is 7f4873ecda00 in ProcId 10 in Process 7.
+shared memory address is 7f4873ee1280 and the stored membuffptr is 7f4873ecda00 in ProcId 10 in Process 7.
+shared memory address is 7f4873ef4b00 and the stored membuffptr is 7f4873ef4b00 in ProcId 11 in Process 7.
+shared memory address is 7f4873f08380 and the stored membuffptr is 7f4873ef4b00 in ProcId 11 in Process 7.
+shared memory address is 7f4873f1bc00 and the stored membuffptr is 7f4873f1bc00 in ProcId 12 in Process 7.
+shared memory address is 7f4873f2f480 and the stored membuffptr is 7f4873f1bc00 in ProcId 12 in Process 7.
+shared memory address is 7f4873f42d00 and the stored membuffptr is 7f4873f42d00 in ProcId 13 in Process 7.
+shared memory address is 7f4873f56580 and the stored membuffptr is 7f4873f42d00 in ProcId 13 in Process 7.
+shared memory address is 7f4873f69e00 and the stored membuffptr is 7f4873f69e00 in ProcId 14 in Process 7.
+shared memory address is 7f4873f7d680 and the stored membuffptr is 7f4873f69e00 in ProcId 14 in Process 7.
+shared memory address is 7f4873f90f00 and the stored membuffptr is 7f4873f90f00 in ProcId 15 in Process 7.
+shared memory address is 7f9b3b545000 and the stored membuffptr is 7f9b3b545000 in ProcId 0 in Process 13.
+shared memory address is 7f9b3b558880 and the stored membuffptr is 7f9b3b545000 in ProcId 0 in Process 13.
+shared memory address is 7f9b3b56c100 and the stored membuffptr is 7f9b3b56c100 in ProcId 1 in Process 13.
+shared memory address is 7f9b3b57f980 and the stored membuffptr is 7f9b3b56c100 in ProcId 1 in Process 13.
+shared memory address is 7f9b3b593200 and the stored membuffptr is 7f9b3b593200 in ProcId 2 in Process 13.
+shared memory address is 7f9b3b5a6a80 and the stored membuffptr is 7f9b3b593200 in ProcId 2 in Process 13.
+shared memory address is 7f9b3b5ba300 and the stored membuffptr is 7f9b3b5ba300 in ProcId 3 in Process 13.
+shared memory address is 7f9b3b5cdb80 and the stored membuffptr is 7f9b3b5ba300 in ProcId 3 in Process 13.
+shared memory address is 7f9b3b5e1400 and the stored membuffptr is 7f9b3b5e1400 in ProcId 4 in Process 13.
+shared memory address is 7f9b3b5f4c80 and the stored membuffptr is 7f9b3b5e1400 in ProcId 4 in Process 13.
+shared memory address is 7f9b3b608500 and the stored membuffptr is 7f9b3b608500 in ProcId 5 in Process 13.
+shared memory address is 7f9b3b61bd80 and the stored membuffptr is 7f9b3b608500 in ProcId 5 in Process 13.
+shared memory address is 7f9b3b62f600 and the stored membuffptr is 7f9b3b62f600 in ProcId 6 in Process 13.
+shared memory address is 7f9b3b642e80 and the stored membuffptr is 7f9b3b62f600 in ProcId 6 in Process 13.
+shared memory address is 7f9b3b656700 and the stored membuffptr is 7f9b3b656700 in ProcId 7 in Process 13.
+shared memory address is 7f9b3b669f80 and the stored membuffptr is 7f9b3b656700 in ProcId 7 in Process 13.
+shared memory address is 7f9b3b67d800 and the stored membuffptr is 7f9b3b67d800 in ProcId 8 in Process 13.
+shared memory address is 7f9b3b691080 and the stored membuffptr is 7f9b3b67d800 in ProcId 8 in Process 13.
+shared memory address is 7f9b3b6a4900 and the stored membuffptr is 7f9b3b6a4900 in ProcId 9 in Process 13.
+shared memory address is 7f9b3b6b8180 and the stored membuffptr is 7f9b3b6a4900 in ProcId 9 in Process 13.
+shared memory address is 7f9b3b6cba00 and the stored membuffptr is 7f9b3b6cba00 in ProcId 10 in Process 13.
+shared memory address is 7f9b3b6df280 and the stored membuffptr is 7f9b3b6cba00 in ProcId 10 in Process 13.
+shared memory address is 7f9b3b6f2b00 and the stored membuffptr is 7f9b3b6f2b00 in ProcId 11 in Process 13.
+shared memory address is 7f9b3b706380 and the stored membuffptr is 7f9b3b6f2b00 in ProcId 11 in Process 13.
+shared memory address is 7f9b3b719c00 and the stored membuffptr is 7f9b3b719c00 in ProcId 12 in Process 13.
+shared memory address is 7f9b3b72d480 and the stored membuffptr is 7f9b3b719c00 in ProcId 12 in Process 13.
+shared memory address is 7f9b3b740d00 and the stored membuffptr is 7f9b3b740d00 in ProcId 13 in Process 13.
+shared memory address is 7f9b3b754580 and the stored membuffptr is 7f9b3b740d00 in ProcId 13 in Process 13.
+shared memory address is 7f9b3b767e00 and the stored membuffptr is 7f9b3b767e00 in ProcId 14 in Process 13.
+shared memory address is 7f9b3b77b680 and the stored membuffptr is 7f9b3b767e00 in ProcId 14 in Process 13.
+shared memory address is 7f9b3b78ef00 and the stored membuffptr is 7f9b3b78ef00 in ProcId 15 in Process 13.
+shared memory address is 7f9b3b7a2780 and the stored membuffptr is 7f9b3b78ef00 in ProcId 15 in Process 13.
+shared memory address is 7f9b3b7b6000 and the stored membuffptr is 7f9b3b7b6000 in ProcId 16 in Process 13.
+shared memory address is 7f9b3b7c9880 and the stored membuffptr is 7f9b3b7b6000 in ProcId 16 in Process 13.
+shared memory address is 7f9b3b7dd100 and the stored membuffptr is 7f9b3b7dd100 in ProcId 17 in Process 13.
+shared memory address is 7f9b3b7f0980 and the stored membuffptr is 7f9b3b7dd100 in ProcId 17 in Process 13.
+shared memory address is 7f9b3b804200 and the stored membuffptr is 7f9b3b804200 in ProcId 18 in Process 13.
+shared memory address is 7f9b3b817a80 and the stored membuffptr is 7f9b3b804200 in ProcId 18 in Process 13.
+shared memory address is 7f9b3b82b300 and the stored membuffptr is 7f9b3b82b300 in ProcId 19 in Process 13.
+shared memory address is 7f9b3b83eb80 and the stored membuffptr is 7f9b3b82b300 in ProcId 19 in Process 13.
+procInfo.Id=13,  Ntypes=101
+shared memory address is 7efd61137000 and the stored membuffptr is 7efd61137000 in ProcId 0 in Process 14.
+shared memory address is 7efd6114a880 and the stored membuffptr is 7efd61137000 in ProcId 0 in Process 14.
+shared memory address is 7efd6115e100 and the stored membuffptr is 7efd6115e100 in ProcId 1 in Process 14.
+shared memory address is 7efd61171980 and the stored membuffptr is 7efd6115e100 in ProcId 1 in Process 14.
+shared memory address is 7efd61185200 and the stored membuffptr is 7efd61185200 in ProcId 2 in Process 14.
+shared memory address is 7efd61198a80 and the stored membuffptr is 7efd61185200 in ProcId 2 in Process 14.
+shared memory address is 7efd611ac300 and the stored membuffptr is 7efd611ac300 in ProcId 3 in Process 14.
+shared memory address is 7efd611bfb80 and the stored membuffptr is 7efd611ac300 in ProcId 3 in Process 14.
+shared memory address is 7efd611d3400 and the stored membuffptr is 7efd611d3400 in ProcId 4 in Process 14.
+shared memory address is 7efd611e6c80 and the stored membuffptr is 7efd611d3400 in ProcId 4 in Process 14.
+shared memory address is 7efd611fa500 and the stored membuffptr is 7efd611fa500 in ProcId 5 in Process 14.
+shared memory address is 7efd6120dd80 and the stored membuffptr is 7efd611fa500 in ProcId 5 in Process 14.
+shared memory address is 7efd61221600 and the stored membuffptr is 7efd61221600 in ProcId 6 in Process 14.
+shared memory address is 7efd61234e80 and the stored membuffptr is 7efd61221600 in ProcId 6 in Process 14.
+shared memory address is 7efd61248700 and the stored membuffptr is 7efd61248700 in ProcId 7 in Process 14.
+shared memory address is 7efd6125bf80 and the stored membuffptr is 7efd61248700 in ProcId 7 in Process 14.
+shared memory address is 7efd6126f800 and the stored membuffptr is 7efd6126f800 in ProcId 8 in Process 14.
+shared memory address is 7efd61283080 and the stored membuffptr is 7efd6126f800 in ProcId 8 in Process 14.
+shared memory address is 7efd61296900 and the stored membuffptr is 7efd61296900 in ProcId 9 in Process 14.
+shared memory address is 7efd612aa180 and the stored membuffptr is 7efd61296900 in ProcId 9 in Process 14.
+shared memory address is 7efd612bda00 and the stored membuffptr is 7efd612bda00 in ProcId 10 in Process 14.
+shared memory address is 7efd612d1280 and the stored membuffptr is 7efd612bda00 in ProcId 10 in Process 14.
+shared memory address is 7efd612e4b00 and the stored membuffptr is 7efd612e4b00 in ProcId 11 in Process 14.
+shared memory address is 7efd612f8380 and the stored membuffptr is 7efd612e4b00 in ProcId 11 in Process 14.
+shared memory address is 7efd6130bc00 and the stored membuffptr is 7efd6130bc00 in ProcId 12 in Process 14.
+shared memory address is 7efd6131f480 and the stored membuffptr is 7efd6130bc00 in ProcId 12 in Process 14.
+shared memory address is 7efd61332d00 and the stored membuffptr is 7efd61332d00 in ProcId 13 in Process 14.
+shared memory address is 7efd61346580 and the stored membuffptr is 7efd61332d00 in ProcId 13 in Process 14.
+shared memory address is 7efd61359e00 and the stored membuffptr is 7efd61359e00 in ProcId 14 in Process 14.
+shared memory address is 7efd6136d680 and the stored membuffptr is 7efd61359e00 in ProcId 14 in Process 14.
+shared memory address is 7efd61380f00 and the stored membuffptr is 7efd61380f00 in ProcId 15 in Process 14.
+shared memory address is 7efd61394780 and the stored membuffptr is 7efd61380f00 in ProcId 15 in Process 14.
+shared memory address is 7efd613a8000 and the stored membuffptr is 7efd613a8000 in ProcId 16 in Process 14.
+shared memory address is 7efd613bb880 and the stored membuffptr is 7efd613a8000 in ProcId 16 in Process 14.
+shared memory address is 7efd613cf100 and the stored membuffptr is 7efd613cf100 in ProcId 17 in Process 14.
+shared memory address is 7efd613e2980 and the stored membuffptr is 7efd613cf100 in ProcId 17 in Process 14.
+shared memory address is 7efd613f6200 and the stored membuffptr is 7efd613f6200 in ProcId 18 in Process 14.
+shared memory address is 7efd61409a80 and the stored membuffptr is 7efd613f6200 in ProcId 18 in Process 14.
+shared memory address is 7efd6141d300 and the stored membuffptr is 7efd6141d300 in ProcId 19 in Process 14.
+shared memory address is 7efd61430b80 and the stored membuffptr is 7efd6141d300 in ProcId 19 in Process 14.
+procInfo.Id=14,  Ntypes=101
+shared memory address is 7f04eacec000 and the stored membuffptr is 7f04eacec000 in ProcId 0 in Process 19.
+shared memory address is 7f04eacff880 and the stored membuffptr is 7f04eacec000 in ProcId 0 in Process 19.
+shared memory address is 7f04ead13100 and the stored membuffptr is 7f04ead13100 in ProcId 1 in Process 19.
+shared memory address is 7f04ead26980 and the stored membuffptr is 7f04ead13100 in ProcId 1 in Process 19.
+shared memory address is 7f04ead3a200 and the stored membuffptr is 7f04ead3a200 in ProcId 2 in Process 19.
+shared memory address is 7f04ead4da80 and the stored membuffptr is 7f04ead3a200 in ProcId 2 in Process 19.
+shared memory address is 7f04ead61300 and the stored membuffptr is 7f04ead61300 in ProcId 3 in Process 19.
+shared memory address is 7f04ead74b80 and the stored membuffptr is 7f04ead61300 in ProcId 3 in Process 19.
+shared memory address is 7f04ead88400 and the stored membuffptr is 7f04ead88400 in ProcId 4 in Process 19.
+shared memory address is 7f04ead9bc80 and the stored membuffptr is 7f04ead88400 in ProcId 4 in Process 19.
+shared memory address is 7f04eadaf500 and the stored membuffptr is 7f04eadaf500 in ProcId 5 in Process 19.
+shared memory address is 7f04eadc2d80 and the stored membuffptr is 7f04eadaf500 in ProcId 5 in Process 19.
+shared memory address is 7f04eadd6600 and the stored membuffptr is 7f04eadd6600 in ProcId 6 in Process 19.
+shared memory address is 7f04eade9e80 and the stored membuffptr is 7f04eadd6600 in ProcId 6 in Process 19.
+shared memory address is 7f04eadfd700 and the stored membuffptr is 7f04eadfd700 in ProcId 7 in Process 19.
+shared memory address is 7f04eae10f80 and the stored membuffptr is 7f04eadfd700 in ProcId 7 in Process 19.
+shared memory address is 7f04eae24800 and the stored membuffptr is 7f04eae24800 in ProcId 8 in Process 19.
+shared memory address is 7f04eae38080 and the stored membuffptr is 7f04eae24800 in ProcId 8 in Process 19.
+shared memory address is 7f04eae4b900 and the stored membuffptr is 7f04eae4b900 in ProcId 9 in Process 19.
+shared memory address is 7f04eae5f180 and the stored membuffptr is 7f04eae4b900 in ProcId 9 in Process 19.
+shared memory address is 7f04eae72a00 and the stored membuffptr is 7f04eae72a00 in ProcId 10 in Process 19.
+shared memory address is 7f04eae86280 and the stored membuffptr is 7f04eae72a00 in ProcId 10 in Process 19.
+shared memory address is 7f04eae99b00 and the stored membuffptr is 7f04eae99b00 in ProcId 11 in Process 19.
+shared memory address is 7f04eaead380 and the stored membuffptr is 7f04eae99b00 in ProcId 11 in Process 19.
+shared memory address is 7f04eaec0c00 and the stored membuffptr is 7f04eaec0c00 in ProcId 12 in Process 19.
+shared memory address is 7f04eaed4480 and the stored membuffptr is 7f04eaec0c00 in ProcId 12 in Process 19.
+shared memory address is 7f04eaee7d00 and the stored membuffptr is 7f04eaee7d00 in ProcId 13 in Process 19.
+shared memory address is 7f04eaefb580 and the stored membuffptr is 7f04eaee7d00 in ProcId 13 in Process 19.
+shared memory address is 7f04eaf0ee00 and the stored membuffptr is 7f04eaf0ee00 in ProcId 14 in Process 19.
+shared memory address is 7f04eaf22680 and the stored membuffptr is 7f04eaf0ee00 in ProcId 14 in Process 19.
+shared memory address is 7f04eaf35f00 and the stored membuffptr is 7f04eaf35f00 in ProcId 15 in Process 19.
+shared memory address is 7f04eaf49780 and the stored membuffptr is 7f04eaf35f00 in ProcId 15 in Process 19.
+shared memory address is 7f04eaf5d000 and the stored membuffptr is 7f04eaf5d000 in ProcId 16 in Process 19.
+shared memory address is 7f04eaf70880 and the stored membuffptr is 7f04eaf5d000 in ProcId 16 in Process 19.
+shared memory address is 7f04eaf84100 and the stored membuffptr is 7f04eaf84100 in ProcId 17 in Process 19.
+shared memory address is 7f04eaf97980 and the stored membuffptr is 7f04eaf84100 in ProcId 17 in Process 19.
+shared memory address is 7f04eafab200 and the stored membuffptr is 7f04eafab200 in ProcId 18 in Process 19.
+shared memory address is 7f04eafbea80 and the stored membuffptr is 7f04eafab200 in ProcId 18 in Process 19.
+shared memory address is 7f04eafd2300 and the stored membuffptr is 7f04eafd2300 in ProcId 19 in Process 19.
+shared memory address is 7f04eafe5b80 and the stored membuffptr is 7f04eafd2300 in ProcId 19 in Process 19.
+procInfo.Id=19,  Ntypes=101
+shared memory address is 7fd3de31fd80 and the stored membuffptr is 7fd3de30c500 in ProcId 5 in Process 1.
+shared memory address is 7fd3de333600 and the stored membuffptr is 7fd3de333600 in ProcId 6 in Process 1.
+shared memory address is 7fd3de346e80 and the stored membuffptr is 7fd3de333600 in ProcId 6 in Process 1.
+shared memory address is 7fd3de35a700 and the stored membuffptr is 7fd3de35a700 in ProcId 7 in Process 1.
+shared memory address is 7fd3de36df80 and the stored membuffptr is 7fd3de35a700 in ProcId 7 in Process 1.
+shared memory address is 7fd3de381800 and the stored membuffptr is 7fd3de381800 in ProcId 8 in Process 1.
+shared memory address is 7fd3de395080 and the stored membuffptr is 7fd3de381800 in ProcId 8 in Process 1.
+shared memory address is 7fd3de3a8900 and the stored membuffptr is 7fd3de3a8900 in ProcId 9 in Process 1.
+shared memory address is 7fd3de3bc180 and the stored membuffptr is 7fd3de3a8900 in ProcId 9 in Process 1.
+shared memory address is 7fd3de3cfa00 and the stored membuffptr is 7fd3de3cfa00 in ProcId 10 in Process 1.
+shared memory address is 7fd3de3e3280 and the stored membuffptr is 7fd3de3cfa00 in ProcId 10 in Process 1.
+shared memory address is 7fd3de3f6b00 and the stored membuffptr is 7fd3de3f6b00 in ProcId 11 in Process 1.
+shared memory address is 7fd3de40a380 and the stored membuffptr is 7fd3de3f6b00 in ProcId 11 in Process 1.
+shared memory address is 7fd3de41dc00 and the stored membuffptr is 7fd3de41dc00 in ProcId 12 in Process 1.
+shared memory address is 7fd3de431480 and the stored membuffptr is 7fd3de41dc00 in ProcId 12 in Process 1.
+shared memory address is 7fd3de444d00 and the stored membuffptr is 7fd3de444d00 in ProcId 13 in Process 1.
+shared memory address is 7fd3de458580 and the stored membuffptr is 7fd3de444d00 in ProcId 13 in Process 1.
+shared memory address is 7fd3de46be00 and the stored membuffptr is 7fd3de46be00 in ProcId 14 in Process 1.
+shared memory address is 7fd3de47f680 and the stored membuffptr is 7fd3de46be00 in ProcId 14 in Process 1.
+shared memory address is 7fd3de492f00 and the stored membuffptr is 7fd3de492f00 in ProcId 15 in Process 1.
+shared memory address is 7fd3de4a6780 and the stored membuffptr is 7fd3de492f00 in ProcId 15 in Process 1.
+shared memory address is 7fd3de4ba000 and the stored membuffptr is 7fd3de4ba000 in ProcId 16 in Process 1.
+shared memory address is 7fd3de4cd880 and the stored membuffptr is 7fd3de4ba000 in ProcId 16 in Process 1.
+shared memory address is 7fd3de4e1100 and the stored membuffptr is 7fd3de4e1100 in ProcId 17 in Process 1.
+shared memory address is 7fd3de4f4980 and the stored membuffptr is 7fd3de4e1100 in ProcId 17 in Process 1.
+shared memory address is 7fd3de508200 and the stored membuffptr is 7fd3de508200 in ProcId 18 in Process 1.
+shared memory address is 7fd3de51ba80 and the stored membuffptr is 7fd3de508200 in ProcId 18 in Process 1.
+shared memory address is 7fd3de52f300 and the stored membuffptr is 7fd3de52f300 in ProcId 19 in Process 1.
+shared memory address is 7fd3de542b80 and the stored membuffptr is 7fd3de52f300 in ProcId 19 in Process 1.
+shared memory address is 7fc336306f00 and the stored membuffptr is 7fc336306f00 in ProcId 15 in Process 6.
+shared memory address is 7fc33631a780 and the stored membuffptr is 7fc336306f00 in ProcId 15 in Process 6.
+shared memory address is 7fc33632e000 and the stored membuffptr is 7fc33632e000 in ProcId 16 in Process 6.
+shared memory address is 7fc336341880 and the stored membuffptr is 7fc33632e000 in ProcId 16 in Process 6.
+shared memory address is 7fc336355100 and the stored membuffptr is 7fc336355100 in ProcId 17 in Process 6.
+shared memory address is 7fc336368980 and the stored membuffptr is 7fc336355100 in ProcId 17 in Process 6.
+shared memory address is 7fc33637c200 and the stored membuffptr is 7fc33637c200 in ProcId 18 in Process 6.
+shared memory address is 7fc33638fa80 and the stored membuffptr is 7fc33637c200 in ProcId 18 in Process 6.
+shared memory address is 7fc3363a3300 and the stored membuffptr is 7fc3363a3300 in ProcId 19 in Process 6.
+shared memory address is 7fc3363b6b80 and the stored membuffptr is 7fc3363a3300 in ProcId 19 in Process 6.
+procInfo.Id=6,  Ntypes=101
+shared memory address is 7f82dd7ceb00 and the stored membuffptr is 7f82dd7ceb00 in ProcId 11 in Process 16.
+shared memory address is 7f82dd7e2380 and the stored membuffptr is 7f82dd7ceb00 in ProcId 11 in Process 16.
+shared memory address is 7f82dd7f5c00 and the stored membuffptr is 7f82dd7f5c00 in ProcId 12 in Process 16.
+shared memory address is 7f82dd809480 and the stored membuffptr is 7f82dd7f5c00 in ProcId 12 in Process 16.
+shared memory address is 7f82dd81cd00 and the stored membuffptr is 7f82dd81cd00 in ProcId 13 in Process 16.
+shared memory address is 7f82dd830580 and the stored membuffptr is 7f82dd81cd00 in ProcId 13 in Process 16.
+shared memory address is 7f82dd843e00 and the stored membuffptr is 7f82dd843e00 in ProcId 14 in Process 16.
+shared memory address is 7f82dd857680 and the stored membuffptr is 7f82dd843e00 in ProcId 14 in Process 16.
+shared memory address is 7f82dd86af00 and the stored membuffptr is 7f82dd86af00 in ProcId 15 in Process 16.
+shared memory address is 7f82dd87e780 and the stored membuffptr is 7f82dd86af00 in ProcId 15 in Process 16.
+shared memory address is 7f82dd892000 and the stored membuffptr is 7f82dd892000 in ProcId 16 in Process 16.
+shared memory address is 7f82dd8a5880 and the stored membuffptr is 7f82dd892000 in ProcId 16 in Process 16.
+shared memory address is 7f82dd8b9100 and the stored membuffptr is 7f82dd8b9100 in ProcId 17 in Process 16.
+shared memory address is 7f82dd8cc980 and the stored membuffptr is 7f82dd8b9100 in ProcId 17 in Process 16.
+shared memory address is 7f82dd8e0200 and the stored membuffptr is 7f82dd8e0200 in ProcId 18 in Process 16.
+shared memory address is 7f82dd8f3a80 and the stored membuffptr is 7f82dd8e0200 in ProcId 18 in Process 16.
+shared memory address is 7f82dd907300 and the stored membuffptr is 7f82dd907300 in ProcId 19 in Process 16.
+shared memory address is 7f82dd91ab80 and the stored membuffptr is 7f82dd907300 in ProcId 19 in Process 16.
+procInfo.Id=16,  Ntypes=101
+procInfo.Id=1,  Ntypes=101
+shared memory address is 7f4873fa4780 and the stored membuffptr is 7f4873f90f00 in ProcId 15 in Process 7.
+shared memory address is 7f4873fb8000 and the stored membuffptr is 7f4873fb8000 in ProcId 16 in Process 7.
+shared memory address is 7f4873fcb880 and the stored membuffptr is 7f4873fb8000 in ProcId 16 in Process 7.
+shared memory address is 7f4873fdf100 and the stored membuffptr is 7f4873fdf100 in ProcId 17 in Process 7.
+shared memory address is 7f4873ff2980 and the stored membuffptr is 7f4873fdf100 in ProcId 17 in Process 7.
+shared memory address is 7f4874006200 and the stored membuffptr is 7f4874006200 in ProcId 18 in Process 7.
+shared memory address is 7f4874019a80 and the stored membuffptr is 7f4874006200 in ProcId 18 in Process 7.
+shared memory address is 7f487402d300 and the stored membuffptr is 7f487402d300 in ProcId 19 in Process 7.
+shared memory address is 7f4874040b80 and the stored membuffptr is 7f487402d300 in ProcId 19 in Process 7.
+procInfo.Id=7,  Ntypes=101
+init_comm ProcInfo.Id=0
+init_comm ProcInfo.Id=1
+init_comm ProcInfo.Id=2
+init_comm ProcInfo.Id=3
+init_comm ProcInfo.Id=4
+init_comm ProcInfo.Id=5
+init_comm ProcInfo.Id=6
+init_comm ProcInfo.Id=7
+init_comm ProcInfo.Id=8
+init_comm ProcInfo.Id=9
+init_comm ProcInfo.Id=10
+init_comm ProcInfo.Id=11
+init_comm ProcInfo.Id=12
+init_comm ProcInfo.Id=13
+init_comm ProcInfo.Id=14
+init_comm ProcInfo.Id=15
+init_comm ProcInfo.Id=16
+init_comm ProcInfo.Id=17
+init_comm ProcInfo.Id=18
+init_comm ProcInfo.Id=19
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+ProcInfo.NumProc=20
+init_comm ProcInfo.NumProcST=0
+init_comm ProcInfo.NumProcST=0
+the current Process Ksub is 1, the correspending Socketrank is 0.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 0, CALId; 0, EMTId: 0, EMTCALId: 0
+the current Process Ksub is 2, the correspending Socketrank is 1.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 1, CALId; 1, EMTId: 1, EMTCALId: 1
+the current Process Ksub is 3, the correspending Socketrank is 2.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 2, CALId; 2, EMTId: 2, EMTCALId: 2
+the current Process Ksub is 4, the correspending Socketrank is 3.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 3, CALId; 3, EMTId: 3, EMTCALId: 3
+the current Process Ksub is 5, the correspending Socketrank is 4.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 4, CALId; 4, EMTId: 4, EMTCALId: 4
+the current Process Ksub is 6, the correspending Socketrank is 5.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 5, CALId; 5, EMTId: 5, EMTCALId: 5
+the current Process Ksub is 7, the correspending Socketrank is 6.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 6, CALId; 6, EMTId: 6, EMTCALId: 6
+the current Process Ksub is 8, the correspending Socketrank is 7.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 7, CALId; 7, EMTId: 7, EMTCALId: 7
+the current Process Ksub is 9, the correspending Socketrank is 8.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 8, CALId; 8, EMTId: 8, EMTCALId: 8
+the current Process Ksub is 10, the correspending Socketrank is 9.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 9, CALId; 9, EMTId: 9, EMTCALId: 9
+the current Process Ksub is 11, the correspending Socketrank is 10.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 10, CALId; 10, EMTId: 10, EMTCALId: 10
+the current Process Ksub is 12, the correspending Socketrank is 11.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 11, CALId; 11, EMTId: 11, EMTCALId: 11
+the current Process Ksub is 13, the correspending Socketrank is 12.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 12, CALId; 12, EMTId: 12, EMTCALId: 12
+the current Process Ksub is 14, the correspending Socketrank is 13.
+the current Process Ksub is 15, the correspending Socketrank is 14.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 14, CALId; 14, EMTId: 14, EMTCALId: 14
+the current Process Ksub is 16, the correspending Socketrank is 15.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 15, CALId; 15, EMTId: 15, EMTCALId: 15
+the current Process Ksub is 17, the correspending Socketrank is 16.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 16, CALId; 16, EMTId: 16, EMTCALId: 16
+the current Process Ksub is 18, the correspending Socketrank is 17.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 17, CALId; 17, EMTId: 17, EMTCALId: 17
+the current Process Ksub is 19, the correspending Socketrank is 18.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 18, CALId; 18, EMTId: 18, EMTCALId: 18
+the current Process Ksub is 20, the correspending Socketrank is 19.
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 19, CALId; 19, EMTId: 19, EMTCALId: 19
+emt, NumProc: 20, NumProcCAL: 20, NumProcST: 0, NumProcEMT: 20, NumProcEMTCAL: 20, NumProcEMTPhy: 0, NumProcEMTIO: 0
+emt, Id: 13, CALId; 13, EMTId: 13, EMTCALId: 13
+init_gval gbuff1=140443569819664
+init_gval gbuff2=140443569291280
+init_gval gbuff3=140443568762896
+init_gval gbuff4=140443568234512
+init_gval gbuff5=140443567706128
+allocate mem for all global vars successfully!
+init_gval gbuff1=140547933757456
+init_gval gbuff2=140547933229072
+init_gval gbuff3=140547932700688
+init_gval gbuff4=140547932172304
+init_gval gbuff5=140547931643920
+allocate mem for all global vars successfully!
+init_gval gbuff1=140298082803728
+init_gval gbuff1=139892665126928
+init_gval gbuff2=139892664598544
+init_gval gbuff3=139892664070160
+init_gval gbuff4=139892663541776
+init_gval gbuff5=139892663013392
+allocate mem for all global vars successfully!
+init_gval gbuff1=140229138870288
+init_gval gbuff2=140229138341904
+init_gval gbuff3=140229137813520
+init_gval gbuff4=140229137285136
+init_gval gbuff5=140229136756752
+allocate mem for all global vars successfully!
+init_gval gbuff1=140293743796240
+init_gval gbuff2=140293743267856
+init_gval gbuff3=140293742739472
+init_gval gbuff4=140293742211088
+init_gval gbuff5=140293741682704
+allocate mem for all global vars successfully!
+init_gval gbuff1=140476394086416
+init_gval gbuff2=140476393558032
+init_gval gbuff3=140476393029648
+init_gval gbuff4=140476392501264
+init_gval gbuff5=140476391972880
+allocate mem for all global vars successfully!
+init_gval gbuff1=139949149667344
+init_gval gbuff2=139949149138960
+init_gval gbuff3=139949148610576
+init_gval gbuff4=139949148082192
+init_gval gbuff5=139949147553808
+allocate mem for all global vars successfully!
+init_gval gbuff1=139690329886736
+init_gval gbuff2=139690329358352
+init_gval gbuff3=139690328829968
+init_gval gbuff4=139690328301584
+init_gval gbuff5=139690327773200
+allocate mem for all global vars successfully!
+init_gval gbuff1=140484591366160
+init_gval gbuff2=140484590837776
+init_gval gbuff3=140484590309392
+init_gval gbuff4=140484589781008
+init_gval gbuff5=140484589252624
+allocate mem for all global vars successfully!
+init_gval gbuff1=140410261798928
+init_gval gbuff2=140410261270544
+init_gval gbuff3=140410260742160
+init_gval gbuff4=140410260213776
+init_gval gbuff5=140410259685392
+allocate mem for all global vars successfully!
+init_gval gbuff1=140357955211280
+init_gval gbuff2=140357954682896
+init_gval gbuff3=140357954154512
+init_gval gbuff4=140357953626128
+init_gval gbuff5=140357953097744
+allocate mem for all global vars successfully!
+init_gval gbuff1=139621976748048
+init_gval gbuff2=139621976219664
+init_gval gbuff3=139621975691280
+init_gval gbuff4=139621975162896
+init_gval gbuff5=139621974634512
+allocate mem for all global vars successfully!
+init_gval gbuff1=139626712481808
+init_gval gbuff2=139626711953424
+init_gval gbuff3=139626711425040
+init_gval gbuff4=139626710896656
+init_gval gbuff5=139626710368272
+allocate mem for all global vars successfully!
+init_gval gbuff1=140630581276688
+init_gval gbuff2=140630580748304
+init_gval gbuff3=140630580219920
+init_gval gbuff4=140630579691536
+init_gval gbuff5=140630579163152
+allocate mem for all global vars successfully!
+init_gval gbuff1=140200028659728
+init_gval gbuff2=140200028131344
+init_gval gbuff3=140200027602960
+init_gval gbuff4=140200027074576
+init_gval gbuff5=140200026546192
+allocate mem for all global vars successfully!
+init_gval gbuff1=139945501646864
+init_gval gbuff2=139945501118480
+init_gval gbuff3=139945500590096
+init_gval gbuff4=139945500061712
+init_gval gbuff5=139945499533328
+allocate mem for all global vars successfully!
+init_gval gbuff1=139867263127568
+init_gval gbuff2=139867262599184
+init_gval gbuff3=139867262070800
+init_gval gbuff4=139867261542416
+init_gval gbuff5=139867261014032
+allocate mem for all global vars successfully!
+init_gval gbuff1=139659088007184
+init_gval gbuff2=139659087478800
+init_gval gbuff3=139659086950416
+init_gval gbuff4=139659086422032
+init_gval gbuff5=139659085893648
+allocate mem for all global vars successfully!
+init_gval gbuff1=140304684032016
+init_gval gbuff2=140304683503632
+init_gval gbuff3=140304682975248
+init_gval gbuff4=140304682446864
+init_gval gbuff5=140304681918480
+allocate mem for all global vars successfully!
+init_gval gbuff2=140298082275344
+init_gval gbuff3=140298081746960
+init_gval gbuff4=140298081218576
+init_gval gbuff5=140298080690192
+allocate mem for all global vars successfully!
+ProcInfo.Id:  0  after MPI COMM WORLD Barrier
+ProcInfo.Id:  1  after MPI COMM WORLD Barrier
+ProcInfo.Id:  2  after MPI COMM WORLD Barrier
+ProcInfo.Id:  3  after MPI COMM WORLD Barrier
+ProcInfo.Id:  4  after MPI COMM WORLD Barrier
+ProcInfo.Id:  5  after MPI COMM WORLD Barrier
+ProcInfo.Id:  6  after MPI COMM WORLD Barrier
+ProcInfo.Id:  7  after MPI COMM WORLD Barrier
+ProcInfo.Id:  8  after MPI COMM WORLD Barrier
+ProcInfo.Id:  9  after MPI COMM WORLD Barrier
+ProcInfo.Id:  10  after MPI COMM WORLD Barrier
+ProcInfo.Id:  11  after MPI COMM WORLD Barrier
+ProcInfo.Id:  12  after MPI COMM WORLD Barrier
+ProcInfo.Id:  13  after MPI COMM WORLD Barrier
+ProcInfo.Id:  14  after MPI COMM WORLD Barrier
+ProcInfo.Id:  15  after MPI COMM WORLD Barrier
+ProcInfo.Id:  16  after MPI COMM WORLD Barrier
+ProcInfo.Id:  17  after MPI COMM WORLD Barrier
+ProcInfo.Id:  18  after MPI COMM WORLD Barrier
+ProcInfo.Id:  19  after MPI COMM WORLD Barrier
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+DIVI[0] = 0,DIVJ[0]=7
+DIVI[1] = 0,DIVJ[1]=8
+DIVI[2] = 0,DIVJ[2]=9
+DIVI[3] = 0,DIVJ[3]=10
+DIVI[4] = 0,DIVJ[4]=11
+DIVI[5] = 1,DIVJ[5]=8
+DIVI[6] = 1,DIVJ[6]=9
+DIVI[7] = 1,DIVJ[7]=10
+DIVI[8] = 1,DIVJ[8]=11
+DIVI[9] = 1,DIVJ[9]=12
+DIVI[10] = 2,DIVJ[10]=9
+DIVI[11] = 2,DIVJ[11]=10
+DIVI[12] = 2,DIVJ[12]=11
+DIVI[13] = 2,DIVJ[13]=12
+DIVI[14] = 2,DIVJ[14]=13
+DIVI[15] = 3,DIVJ[15]=10
+DIVI[16] = 3,DIVJ[16]=11
+DIVI[17] = 3,DIVJ[17]=12
+DIVI[18] = 3,DIVJ[18]=13
+DIVI[19] = 3,DIVJ[19]=14
+DIVI[20] = 4,DIVJ[20]=11
+ Warm system 200000 times
+ Warm system 200000 times
+DIVI[21] = 4,DIVJ[21]=12
+DIVI[22] = 4,DIVJ[22]=13
+DIVI[23] = 4,DIVJ[23]=14
+DIVI[24] = 4,DIVJ[24]=15
+DIVI[25] = 5,DIVJ[25]=12
+DIVI[26] = 5,DIVJ[26]=13
+DIVI[27] = 5,DIVJ[27]=14
+DIVI[28] = 5,DIVJ[28]=15
+DIVI[29] = 5,DIVJ[29]=16
+DIVI[30] = 6,DIVJ[30]=13
+DIVI[31] = 6,DIVJ[31]=14
+DIVI[32] = 6,DIVJ[32]=15
+DIVI[33] = 6,DIVJ[33]=16
+DIVI[34] = 6,DIVJ[34]=17
+ Warm system 200000 times
+ Warm system 200000 times
+ Warm system 200000 times
+start to wait for MPI finished, with idx_request = 0.
+MPI finished, with idx_request = 0.
+program starts at Tue Dec  8 16:24:10 UTC 2020
+program ends at Tue Dec  8 16:24:30 UTC 2020
+Tue Dec  8 16:24:30 UTC 2020
